@@ -3,7 +3,7 @@ ETL PLAN:
 Data Clean up (SQL):
 1)chicago building strike data: aggregate # of building strikes grouped by species and date
 2)airplane strike data: aggregate # of airplane strikes in chicaco, in 2018, grouped species by date
-3) join data sets on species...this will require cleaning up naming conventions by defining list variable and joining on a wild card condition
+3) join data sets on species and date...this will require cleaning up naming conventions  
 4) final table should be structuured:
 	PK_ID
 	DATE_OF_INCIDENT
