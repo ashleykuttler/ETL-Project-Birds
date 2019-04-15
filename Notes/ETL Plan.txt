@@ -5,24 +5,31 @@ Data Clean:
 2)airplane strike data: aggregate # of airplane strikes in chicaco, 2004-2016, grouped by species and date
 3) join data sets on species and date...this will require cleaning up naming conventions  (explore pandas fuzzywuzzy module)
 4) final tables should be structured:
+	
+	PK_SPECIES_ID
+	SPECIES
+	GENOME
+	
 	PK_ID
 	DATE_OF_INCIDENT
 	QTY_BLD_STRIKES
-	SPECIES
+	CITY
+	SPECIES_ID
 
 	PK_ID
+	FK_SPECIES_ID
+	FK_AIRLINE
 	DATE_OF_INCIDENT
 	QTY_AIRPLANE_STRIKE
-	SPECIES
 	EST_DAMAGE_COST	
 
-	PK_FLIGHT_ID
-	DATE
-	AIRLINE	
-	# OF FLIGHTS
+	PK_ID
+	DATE_OF_DEPARTURE
+	FK_AIRLINE	
+	QTY_FLIGHTS
 
-	PK_BIRD_ID
-	SPECIES
+	PK_ID
+	SPECIES_ID
 	REGION
 	YEAR
 	EST POPULATION
