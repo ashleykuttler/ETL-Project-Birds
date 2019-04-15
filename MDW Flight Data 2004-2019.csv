@@ -1,0 +1,1159 @@
+year, month,carrier,carrier_name,airport,airport_name,arr_flights,arr_del15,carrier_ct, weather_ct,nas_ct,security_ct,late_aircraft_ct,arr_cancelled,arr_diverted, arr_delay, carrier_delay,weather_delay,nas_delay,security_delay,late_aircraft_delay
+2004,1,AA,American Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",149,32,6.33,4.95,14.94,0,5.79,6,2,1691,342,275,763,0,311
+2004,1,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",120,39,1.38,2.05,32.9,0,2.68,4,1,2071,47,90,1763,0,171
+2004,1,DH,Atlantic Coast Airlines,MDW,"Chicago, IL: Chicago Midway International",56,17,3.21,0.44,7.42,0,5.93,0,0,857,125,18,421,0,293
+2004,1,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",155,40,6.99,0.2,25.32,0,7.48,7,1,1421,253,7,838,0,323
+2004,1,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",247,70,8.89,0,40.42,0,20.68,15,2,2871,289,0,1395,0,1187
+2004,1,MQ,American Eagle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",51,16,4.5,1.76,8.48,0,1.26,4,0,731,300,67,313,0,51
+2004,1,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",346,69,19.32,3.44,41.86,0,4.38,13,1,3126,1261,229,1432,0,204
+2004,1,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",48,18,4.44,5.29,7.27,0,1,3,0,692,143,241,292,0,16
+2004,1,RU,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",126,36,6.7,0.19,22.87,0,6.24,2,0,1618,209,12,1087,0,310
+2004,1,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",2464,703,70.89,10.75,367.49,4.82,249.04,67,4,57111,6063,1122,28845,182,20899
+2004,1,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",3835,641,91.65,55.21,234.68,3.08,256.38,104,50,33651,3914,5762,10112,237,13626
+2004,2,AA,American Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",130,26,8.23,1.64,6.61,0,9.52,3,0,1357,340,110,323,0,584
+2004,2,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",126,20,1,0,18.24,0.76,0,1,0,644,90,0,462,92,0
+2004,2,DH,Atlantic Coast Airlines,MDW,"Chicago, IL: Chicago Midway International",54,9,1.74,0.28,4.06,0,2.92,2,0,464,57,38,157,0,212
+2004,2,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",145,33,4.79,1.01,10.23,0,16.98,8,1,1669,165,147,419,0,938
+2004,2,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",231,77,7.49,0,28.71,0,40.8,13,0,4123,410,0,1181,0,2532
+2004,2,MQ,American Eagle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",58,9,3.51,0,5.16,0,0.33,0,0,345,197,0,131,0,17
+2004,2,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",322,79,23.84,2.95,43.09,0,9.12,9,1,3127,1078,318,1318,0,413
+2004,2,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",45,5,3.71,0.97,0.32,0,0,4,0,311,207,70,34,0,0
+2004,2,RU,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",121,21,3.31,0,15.51,0,2.18,0,0,738,125,0,543,0,70
+2004,2,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",2372,387,57.93,2.13,202.37,5.83,118.75,44,1,16157,3125,101,6982,137,5812
+2004,2,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",3637,501,97.09,20.93,109.05,5.43,268.52,46,11,20098,3800,1715,3232,173,11178
+2004,3,AA,American Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",147,22,6.37,0.69,13.06,0,1.89,4,1,924,396,50,426,0,52
+2004,3,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",142,36,2.6,0.5,23.8,0,9.09,3,1,1313,73,31,836,0,373
+2004,3,DH,Atlantic Coast Airlines,MDW,"Chicago, IL: Chicago Midway International",43,9,1.91,0.02,2.49,0,4.58,2,0,287,40,1,75,0,171
+2004,3,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",155,31,6.88,0,19.54,0,4.58,0,0,1118,328,0,615,0,175
+2004,3,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",247,54,11,0,22.36,0,20.63,5,1,2121,379,0,832,0,910
+2004,3,MQ,American Eagle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",62,11,4.22,2.15,2.28,0,2.35,2,0,641,234,191,96,0,120
+2004,3,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",344,84,22.27,6.5,45.12,0.32,9.79,8,0,3022,1074,314,1310,8,316
+2004,3,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",50,11,2.17,0,8.83,0,0,1,0,418,40,0,378,0,0
+2004,3,RU,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",133,19,2.95,1.41,12.93,0,1.71,1,0,939,133,157,581,0,68
+2004,3,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",2563,478,54.15,0.74,264.16,4.18,154.78,33,0,21871,3590,161,9327,84,8709
+2004,3,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",3926,671,128.11,23.31,197.99,3.28,318.31,31,15,25586,4313,1269,6939,67,12998
+2004,4,AA,American Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",142,17,1.61,2.07,11.02,0,2.29,2,0,598,76,216,226,0,80
+2004,4,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",159,31,4.39,0.02,17.38,0.01,9.2,1,0,1377,439,1,432,1,504
+2004,4,DH,Atlantic Coast Airlines,MDW,"Chicago, IL: Chicago Midway International",30,2,1.96,0,0,0,0.04,0,0,71,70,0,0,0,1
+2004,4,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",150,29,9.61,0,14.67,0,4.73,0,0,911,309,0,410,0,192
+2004,4,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",240,41,16.93,0,13.37,0,10.7,0,0,1558,594,0,471,0,493
+2004,4,MQ,American Eagle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",60,2,1,0,1,0,0,5,0,47,32,0,15,0,0
+2004,4,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",335,51,20.43,0.36,26.01,0,4.21,3,0,1625,658,27,775,0,165
+2004,4,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",48,9,2.83,2,4.17,0,0,0,0,354,76,90,188,0,0
+2004,4,RU,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",129,28,2.41,0.17,21.66,0,3.76,0,0,784,76,21,524,0,163
+2004,4,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",2430,286,41.15,0.61,170.39,1.61,72.23,12,0,11398,2446,22,4645,59,4226
+2004,4,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",3865,654,133.29,10.33,133.49,4.98,371.92,11,2,27539,5763,584,4149,198,16845
+2004,5,AA,American Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",140,25,6.32,0.87,16.42,0,1.39,2,0,1096,304,76,634,0,82
+2004,5,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",130,40,2.15,0.92,28.23,0,8.71,2,0,2593,179,280,1564,0,570
+2004,5,DH,Atlantic Coast Airlines,MDW,"Chicago, IL: Chicago Midway International",31,7,1.77,0,3.97,0,1.26,0,0,308,79,0,130,0,99
+2004,5,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",155,53,10.19,0.2,26.21,0,16.4,1,0,2679,588,35,1240,0,816
+2004,5,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",247,64,9.6,0.32,28.78,0,25.3,2,1,3695,466,24,1637,0,1568
+2004,5,MQ,American Eagle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",89,13,1.7,0.76,8.39,0,2.14,9,1,718,136,13,476,0,93
+2004,5,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",352,120,25.36,13.71,75.72,0,5.21,7,1,5283,971,1022,2850,0,440
+2004,5,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",47,20,4.06,3.11,12.83,0,0,2,0,811,167,175,469,0,0
+2004,5,RU,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",125,28,2.45,0.22,24.49,0,0.84,2,0,1791,197,6,1526,0,62
+2004,5,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",2416,455,50.77,2.09,243.51,1.01,157.61,10,1,29731,3125,190,13162,19,13235
+2004,5,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",3997,1022,136.84,78.46,380.13,1.13,425.44,15,19,53894,6160,5773,17386,104,24471
+2004,6,AA,American Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",139,41,5.58,7.14,17.79,0,10.49,0,0,2209,209,408,884,0,708
+2004,6,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",125,27,0,0,22.83,0,4.17,0,0,2464,0,0,1880,0,584
+2004,6,DH,Atlantic Coast Airlines,MDW,"Chicago, IL: Chicago Midway International",30,7,1.71,0,4.31,0,0.98,0,0,240,59,0,161,0,20
+2004,6,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",150,66,8.38,1.55,38.32,0,17.75,0,0,3752,318,99,1631,0,1704
+2004,6,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",240,79,15.22,0,20.87,0,42.92,5,0,4803,695,0,952,0,3156
+2004,6,MQ,American Eagle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",90,22,6.44,0,12.37,0,3.2,9,0,828,316,0,385,0,127
+2004,6,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",351,121,29.42,15.48,68.32,0,7.79,8,0,5232,1295,947,2574,0,416
+2004,6,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",48,21,3.14,4.45,13.41,0,0,1,0,823,105,254,464,0,0
+2004,6,RU,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",130,34,2.18,1,26.46,1,3.36,1,0,1509,148,16,1126,46,173
+2004,6,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",2442,519,51.36,5.37,294.44,6.33,161.5,9,1,27695,2595,364,13359,269,11108
+2004,6,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",4022,1099,134.81,74.61,374.81,4.19,510.58,7,5,52957,4859,4222,15907,173,27796
+2004,7,AA,American Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",137,28,6.56,3.03,8.69,0,9.73,4,0,1218,224,181,353,0,460
+2004,7,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",121,39,2.78,0.23,25.24,0.73,10.02,3,0,3169,146,11,2017,11,984
+2004,7,DH,Atlantic Coast Airlines,MDW,"Chicago, IL: Chicago Midway International",31,4,1,0,0.13,0,2.88,2,0,229,104,0,4,0,121
+2004,7,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",155,54,6.6,0,41.23,0,6.16,1,0,2156,288,0,1543,0,325
+2004,7,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",247,79,18.21,0,29.58,0,31.2,5,0,3561,649,0,1394,0,1518
+2004,7,MQ,American Eagle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",90,27,8.34,0.07,13.66,0,4.92,13,0,1266,414,6,646,0,200
+2004,7,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",356,103,33.77,11.56,51.94,0.39,5.34,3,3,4811,1814,763,1928,9,297
+2004,7,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",48,15,4.45,4.33,6.23,0,0,3,0,893,336,232,325,0,0
+2004,7,RU,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",131,30,6.05,2.62,13.29,0,8.05,1,1,2164,510,405,847,0,402
+2004,7,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",2472,596,70.03,3,279.36,2.71,240.89,28,2,39826,4435,215,14375,85,20716
+2004,7,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",4139,1056,135.99,67.89,342.82,3.31,506,14,12,55691,6668,5282,16100,106,27535
+2004,8,AA,American Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",142,30,6.53,4.6,7.02,0,11.85,6,1,1540,170,380,218,0,772
+2004,8,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",123,31,5.86,0.5,20.23,0,4.41,0,0,2636,427,69,1568,0,572
+2004,8,DH,Atlantic Coast Airlines,MDW,"Chicago, IL: Chicago Midway International",31,3,0,0,2.46,0,0.54,0,0,110,0,0,97,0,13
+2004,8,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",155,35,7.08,0,21.43,0,6.5,2,0,1919,424,0,1028,0,467
+2004,8,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",247,47,11.06,0.53,22.57,0,12.84,6,0,2253,545,21,1077,0,610
+2004,8,MQ,American Eagle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",84,19,3.65,0,9.26,0,6.09,12,0,1211,404,0,471,0,336
+2004,8,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",364,79,23.67,6.52,45.04,0,3.76,11,3,3122,1125,546,1276,0,175
+2004,8,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",49,13,4.76,5.38,1.86,0,1,1,0,900,231,514,79,0,76
+2004,8,RU,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",131,23,2.92,0.01,12.87,0,7.2,0,0,1436,213,1,863,0,359
+2004,8,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",2557,420,31.63,4.55,241.22,1.78,140.82,23,0,23960,1482,409,11558,58,10453
+2004,8,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",4192,947,134.62,61.21,284.97,6.4,459.79,24,9,49393,5817,4671,13110,125,25670
+2004,9,AA,American Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",131,10,7.42,0.04,2.21,0,0.33,0,0,714,478,7,169,0,60
+2004,9,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",105,14,1.62,0.61,4.77,0,7,1,0,783,97,63,199,0,424
+2004,9,DH,Atlantic Coast Airlines,MDW,"Chicago, IL: Chicago Midway International",30,5,0.83,0,0.36,0,3.82,1,0,251,19,0,9,0,223
+2004,9,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",150,22,9.27,0,4.8,0,7.93,5,0,1163,389,0,214,0,560
+2004,9,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",235,45,7.91,0.95,3.84,0,32.3,7,1,3339,552,98,187,0,2502
+2004,9,MQ,American Eagle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",82,15,4.58,0.35,4.49,0,5.59,11,0,781,176,20,187,0,398
+2004,9,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",342,46,16.73,1.76,23.1,0,4.41,1,1,1528,622,88,669,0,149
+2004,9,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",48,2,1.27,0,0.73,0,0,0,0,39,23,0,16,0,0
+2004,9,RU,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",122,10,4.39,0,4.25,0,1.36,0,0,385,171,0,139,0,75
+2004,9,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",2167,151,18.7,1.42,78.35,3.51,49.02,48,0,7155,938,137,2724,159,3197
+2004,9,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",4018,398,74.15,4.86,112.28,4.58,202.13,59,1,14401,2551,410,3061,105,8274
+2004,10,AA,American Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",135,22,3.34,3.54,5.53,0,9.58,0,0,1531,92,450,343,0,646
+2004,10,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",118,8,4.46,0,2,0,1.54,0,0,192,132,0,32,0,28
+2004,10,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",155,29,10.58,0,7.53,0,10.89,0,0,1010,379,0,195,0,436
+2004,10,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",243,40,6.57,0,12.21,0,21.22,4,0,1505,183,0,371,0,951
+2004,10,MQ,American Eagle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",82,25,5.92,0.29,15.89,0,2.89,2,0,1073,458,5,517,0,93
+2004,10,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",356,66,25.07,1.2,35.05,0,4.67,1,2,1997,993,27,845,0,132
+2004,10,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",78,11,3.06,3.66,4.28,0,0,3,0,327,136,99,92,0,0
+2004,10,RU,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",126,9,2.9,0,4.78,0,1.32,0,0,481,207,0,162,0,112
+2004,10,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",2287,230,34.2,0,101.89,3.98,89.94,9,0,8645,1679,0,2747,100,4119
+2004,10,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",4167,625,101.64,3.44,175.81,2.06,342.05,15,3,23105,3675,161,4755,62,14452
+2004,11,AA,American Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",132,15,6.79,1.53,3.04,0,3.64,0,2,895,229,127,285,0,254
+2004,11,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",112,16,1.78,1.15,2.71,0,10.35,0,1,874,68,84,112,0,610
+2004,11,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",148,26,7.99,0.39,4.77,0,12.84,4,0,1530,547,17,379,0,587
+2004,11,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",234,43,5.4,0,7.35,0,30.25,5,2,2888,372,0,321,0,2195
+2004,11,MQ,American Eagle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",80,24,7.98,0.98,12.05,0,2.99,5,1,787,320,22,270,0,175
+2004,11,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",335,54,21.78,2.8,27,0,2.41,5,1,2257,848,253,1074,0,82
+2004,11,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",77,6,1.91,3.94,0.16,0,0,0,1,286,35,245,6,0,0
+2004,11,RU,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",123,24,5.12,0.01,11.78,0,7.09,1,0,1443,296,1,743,0,403
+2004,11,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",1997,347,48.95,1.61,204.53,1.29,90.62,3,2,18384,2463,205,9545,62,6109
+2004,11,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",4031,668,108.93,23.51,173.06,7.89,354.6,14,11,33143,4170,2347,7856,502,18268
+2004,12,AA,American Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",125,29,8.58,2.27,10.57,0.96,6.63,2,1,1617,386,133,722,22,354
+2004,12,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",81,13,4.31,0.09,6.87,0,1.73,1,0,808,307,9,381,0,111
+2004,12,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",151,32,8.28,0.06,4.99,0,18.67,2,1,1398,420,4,135,0,839
+2004,12,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",245,46,10.35,0,8.33,0,27.33,3,2,2602,441,0,261,0,1900
+2004,12,MQ,American Eagle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",41,16,2.45,2.03,8.04,0,3.48,1,1,659,123,113,229,0,194
+2004,12,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",330,85,39.27,3.23,35.24,0,7.26,6,2,3358,1847,164,1002,0,345
+2004,12,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",62,13,10.59,0,2.41,0,0,14,0,597,525,0,72,0,0
+2004,12,RU,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",124,37,6.82,2.42,15.92,0,11.85,13,1,2096,426,157,654,0,859
+2004,12,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",2121,468,60.8,1.29,210.39,4.64,190.88,15,3,25798,3444,154,10154,142,11904
+2004,12,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",4269,985,206.23,26.25,221.99,9.08,521.46,43,25,48471,8701,3022,9041,398,27309
+2005,1,AA,American Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",109,17,5.51,1.81,5.21,0,4.47,1,4,859,218,80,339,0,222
+2005,1,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",85,7,0.9,1,3.37,0,1.73,4,0,369,33,60,229,0,47
+2005,1,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",148,25,5.2,0.12,10.25,0,9.44,16,4,1095,261,4,354,0,476
+2005,1,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",269,57,11.43,1.56,25.21,0,18.79,19,0,3234,655,315,1196,0,1068
+2005,1,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",344,90,24.06,4.3,50.81,0,10.83,13,2,4177,1160,368,2003,0,646
+2005,1,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",62,14,6.7,0.42,6.88,0,0,4,0,569,296,43,230,0,0
+2005,1,RU,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",101,30,4.65,1.22,16.95,0,7.17,7,0,1479,275,44,573,0,587
+2005,1,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",1752,377,47.64,2.7,209.83,1.91,114.92,59,3,21991,3019,237,10069,64,8602
+2005,1,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",4296,975,143.01,27.95,347.81,2.64,453.59,129,60,49501,6251,2839,16752,50,23609
+2005,2,AA,American Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",98,1,0.64,0,0,0,0.36,1,0,28,18,0,0,0,10
+2005,2,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",78,5,1.09,1,2,0,0.91,1,0,189,23,59,64,0,43
+2005,2,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",104,20,6.48,0.33,4.7,0,8.5,7,0,1174,291,13,270,0,600
+2005,2,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",264,54,14.21,0.99,11.92,0,26.88,9,0,3328,502,207,466,0,2153
+2005,2,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",310,50,16.2,1.48,28.96,0,3.36,11,0,1944,870,44,874,0,156
+2005,2,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",43,6,4.34,0,1.66,0,0,1,0,186,143,0,43,0,0
+2005,2,RU,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",94,18,6.84,0,9.19,0,1.96,0,0,805,467,0,264,0,74
+2005,2,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",1229,168,24.22,0,92.38,0.31,51.08,14,0,6751,1382,0,2690,8,2671
+2005,2,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",4071,612,124.25,4.81,110.24,0.22,372.48,34,3,28640,5655,189,3708,19,19069
+2005,3,AA,American Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",112,12,4.59,0.08,5.38,0,1.95,0,0,401,235,2,127,0,37
+2005,3,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",110,25,8.88,1.02,5.79,0,9.3,4,0,1946,495,124,309,0,1018
+2005,3,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",116,23,9.81,0.35,5.56,0,7.28,2,0,1645,663,27,346,0,609
+2005,3,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",306,83,17.58,0,17.21,0,48.22,5,0,6698,946,0,934,0,4818
+2005,3,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",340,78,30.45,3.62,31.86,0,12.07,4,2,3454,1326,271,1304,0,553
+2005,3,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",50,3,0.94,1,1.06,0,0,3,0,185,33,133,19,0,0
+2005,3,RU,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",128,27,3.62,0.06,13.91,0,9.41,2,0,1240,132,3,598,0,507
+2005,3,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",1411,239,27.37,1.49,106.14,2.34,101.67,23,0,12296,1677,156,4361,71,6031
+2005,3,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",4825,833,166.24,27.31,171.51,5.55,462.4,43,4,44277,7626,3421,7628,241,25361
+2005,4,AA,American Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",110,17,7.15,0.1,1.61,0,8.14,1,0,842,472,5,40,0,325
+2005,4,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",106,11,3.22,0.03,2.39,0,5.36,1,0,731,148,9,57,0,517
+2005,4,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",111,15,5.83,0.54,4.52,0,4.11,4,0,952,261,90,240,0,361
+2005,4,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",299,52,15.04,0.81,6.15,0,30.01,4,1,3817,531,47,306,0,2933
+2005,4,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",340,43,17.05,0.81,19.32,0,5.82,4,0,1297,631,17,478,0,171
+2005,4,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",46,2,1,0,1,0,0,0,0,45,23,0,22,0,0
+2005,4,RU,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",119,11,1.67,0.59,6.56,0,2.19,0,0,553,124,20,245,0,164
+2005,4,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",1361,80,16.83,0.94,34.31,0,27.92,9,0,4796,1196,533,1471,0,1596
+2005,4,UA,United Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",140,12,4.06,0.15,4.62,0,3.16,7,0,562,246,4,143,0,169
+2005,4,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",4852,483,119.36,8.55,80.52,1.21,273.36,7,0,17523,4628,448,2319,109,10019
+2005,5,AA,American Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",113,8,2,0.65,3.41,0,1.94,0,0,215,50,13,88,0,64
+2005,5,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",99,5,0.41,0,2,0,2.59,1,0,352,28,0,178,0,146
+2005,5,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",115,21,4.29,1.11,8.18,0,7.42,2,0,1144,318,65,196,0,565
+2005,5,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",128,18,7.5,0.81,2.65,0,7.04,0,0,563,237,49,78,0,199
+2005,5,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",310,50,22.85,0,7.4,0,19.75,1,1,2746,876,0,302,0,1568
+2005,5,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",352,42,18.5,1,19.83,0,2.67,3,0,1426,639,55,636,0,96
+2005,5,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",22,1,0,0,1,0,0,2,0,79,0,0,79,0,0
+2005,5,RU,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",118,11,2.46,0,6.78,0,1.76,0,0,421,168,0,211,0,42
+2005,5,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",1369,89,13.4,0.36,45.78,0,29.46,9,0,4893,973,14,2405,0,1501
+2005,5,UA,United Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",147,32,7.02,0.13,8.37,0,16.49,11,0,2585,701,16,288,0,1580
+2005,5,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",5186,611,145.14,24.01,100.89,3.83,337.13,11,7,26239,6460,1676,3691,81,14331
+2005,6,AA,American Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",125,17,5.17,1.65,2.39,0,7.8,1,0,879,389,84,87,0,319
+2005,6,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",77,16,1.82,1.16,10.25,0.64,2.14,1,0,1053,53,24,796,23,157
+2005,6,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",112,34,10.02,0,11.16,0,12.82,3,0,1505,395,0,478,0,632
+2005,6,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",112,19,7.12,1.51,3.65,0,6.72,0,1,779,309,63,115,0,292
+2005,6,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",304,102,21.15,1,24.77,0,55.08,2,1,5857,868,49,1157,0,3783
+2005,6,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",345,80,29.85,9.38,34.62,0,6.14,7,0,4409,1940,864,1270,0,335
+2005,6,RU,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",130,27,6.34,1.87,10.01,0,8.77,1,0,1139,248,166,384,0,341
+2005,6,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",1344,220,32.38,1.86,101.7,1.97,82.09,19,0,15089,2654,93,5279,53,7010
+2005,6,UA,United Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",147,58,7.72,2.33,28.83,0,19.11,0,0,3225,543,115,1343,0,1224
+2005,6,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",5335,907,182.89,65.12,181.83,4.33,472.83,13,12,46814,7185,4314,8063,102,27150
+2005,7,AA,American Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",152,46,10.89,4.78,10.13,0,20.2,2,1,3415,777,409,603,0,1626
+2005,7,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",77,17,3.02,0,6.39,1,6.59,3,0,1616,171,0,605,15,825
+2005,7,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",114,47,9.35,2.16,15.61,0,19.88,1,0,3036,446,109,921,0,1560
+2005,7,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",110,19,6.52,1.4,6.83,0,4.24,0,0,938,258,158,377,0,145
+2005,7,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",340,128,28.54,1,32.89,0,65.57,1,2,9633,1721,60,2036,0,5816
+2005,7,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",345,99,44.55,7.64,38.88,0,7.93,17,2,5396,2455,646,1827,0,468
+2005,7,RU,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",136,26,1.59,1.02,14.41,0,8.98,2,0,1694,41,23,956,0,674
+2005,7,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",1346,267,37.19,0,122.34,3.68,103.79,22,1,20572,2938,0,7741,103,9790
+2005,7,UA,United Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",153,43,10.88,1.7,15.49,0,14.93,0,0,2467,377,170,889,0,1031
+2005,7,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",5681,1239,250.36,96.6,258.04,8.03,625.98,11,21,76668,10818,9710,14648,307,41185
+2005,8,AA,American Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",143,23,4.12,1.61,8.04,0,9.23,3,0,1409,250,130,331,0,698
+2005,8,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",81,9,3,0.11,2.17,0,3.72,0,0,550,125,8,135,0,282
+2005,8,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",115,40,11.01,1.75,2.98,0,24.26,3,0,2562,626,47,146,0,1743
+2005,8,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,8,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",115,13,6.12,0,0.62,0,6.26,0,0,375,160,0,20,0,195
+2005,8,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",341,110,21.03,0,22.66,0,66.3,5,2,7366,1136,0,1021,0,5209
+2005,8,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",351,114,67.87,4.36,29.69,0,12.08,18,0,5635,3504,362,1064,0,705
+2005,8,RU,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",135,36,6.66,2.56,14.38,0,12.4,0,0,1767,353,143,516,0,755
+2005,8,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",1384,177,19.82,0,96.47,1.52,59.18,5,1,10244,1184,0,3862,44,5154
+2005,8,UA,United Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",155,28,9.02,1.72,10.45,0,6.8,2,0,1462,478,88,359,0,537
+2005,8,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",5800,834,196.45,43.39,125.22,6.58,462.36,25,3,37722,8478,3210,4595,165,21274
+2005,9,AA,American Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",106,14,3.82,0.82,6.69,0,2.68,1,0,838,279,100,217,0,242
+2005,9,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",77,11,2.97,0,5.69,0,2.34,0,0,311,65,0,174,0,72
+2005,9,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",30,4,1.64,0,1.6,0,0.76,0,0,119,72,0,34,0,13
+2005,9,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",60,15,13.84,0,1.16,0,0,1,0,780,724,0,56,0,0
+2005,9,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",109,7,4.12,0,0.55,0,2.33,0,0,180,111,0,10,0,59
+2005,9,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",307,48,16.59,0,16.88,0,14.53,0,1,1691,490,0,510,0,691
+2005,9,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",331,83,37.2,3.34,32.15,0.39,9.92,3,0,3575,1709,363,1036,7,460
+2005,9,RU,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",118,17,3.83,1.94,10.19,0,1.03,1,0,732,112,112,485,0,23
+2005,9,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",1232,129,18.01,1.04,60.19,0.61,49.15,13,0,6761,1271,63,2140,11,3276
+2005,9,UA,United Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",97,13,3.54,0.77,2.42,0,6.26,3,0,623,152,17,67,0,387
+2005,9,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",5515,594,146.32,16.3,100.23,1.28,329.87,28,3,25391,5903,1231,3379,45,14833
+2005,10,AA,American Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",107,9,3,0.1,3.59,0,2.31,2,0,327,104,7,101,0,115
+2005,10,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",33,10,2,0,7,0,1,0,0,423,135,0,167,0,121
+2005,10,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",31,8,4.86,0,2.26,0,0.88,0,0,297,230,0,53,0,14
+2005,10,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",62,15,8.23,3.05,2.72,0,1,1,0,874,464,169,92,0,149
+2005,10,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",115,14,6,2.21,3.71,0,2.08,1,0,779,239,312,162,0,66
+2005,10,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",330,68,28.75,0,14.41,0,24.85,1,0,3149,962,0,624,0,1563
+2005,10,MQ,American Eagle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",4,2,0,0.46,1.54,0,0,0,0,137,0,39,98,0,0
+2005,10,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",291,49,23.22,4.64,13.72,0,7.42,6,0,2318,840,507,518,0,453
+2005,10,RU,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",163,32,7.05,0,7.48,0,17.47,4,0,1605,242,0,563,0,800
+2005,10,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",1315,167,27.07,0.84,60.25,0,78.83,32,0,9788,1995,77,2432,0,5284
+2005,10,UA,United Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",93,18,1.11,0.81,7.92,0,8.16,1,0,818,31,32,394,0,361
+2005,10,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",5731,726,186.2,13.66,108.02,3.04,415.08,40,1,30991,6878,1477,3647,94,18895
+2005,11,AA,American Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",77,12,5.08,0.38,3.88,0,2.66,1,0,511,165,39,167,0,140
+2005,11,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",76,18,2.28,0,8.13,0.53,7.06,0,0,1034,128,0,369,30,507
+2005,11,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",40,15,3.67,0,7.63,0,3.7,0,0,567,100,0,194,0,273
+2005,11,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",60,12,3.63,3.4,4.24,0,0.73,0,0,648,290,151,191,0,16
+2005,11,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",114,14,6.7,1.04,1.4,0,4.86,0,0,483,227,85,32,0,139
+2005,11,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",325,65,20.9,0,14.86,0,29.24,6,0,4118,603,0,544,0,2971
+2005,11,MQ,American Eagle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",60,18,8.72,0.42,5.22,0,3.64,1,0,577,301,8,112,0,156
+2005,11,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",256,58,21.95,5.65,25.84,0,4.56,8,1,2396,1109,277,872,0,138
+2005,11,RU,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",124,27,5.39,1.79,13.66,0,6.17,0,0,1007,266,86,465,0,190
+2005,11,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",1027,130,15.17,0,52.71,0,62.12,18,0,6472,1080,0,2311,0,3081
+2005,11,UA,United Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",85,12,4.86,0,5.63,0,1.51,3,0,320,127,0,143,0,50
+2005,11,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",5481,728,172.72,32.78,162.85,4.88,354.77,31,9,30789,7392,2266,6208,112,14811
+2005,12,AA,American Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",77,22,3.22,3.31,6.92,0,8.55,4,0,822,97,145,206,0,374
+2005,12,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",77,25,1.62,0.18,8.25,0,14.95,4,0,1160,147,17,331,0,665
+2005,12,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",175,51,20.21,9.11,18.29,0,3.39,9,1,2570,935,502,989,0,144
+2005,12,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",121,39,17.35,0.63,15.55,0,5.47,3,1,1532,700,15,589,0,228
+2005,12,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",485,176,43.27,0.42,67.69,0,64.62,10,4,8965,1644,71,2940,0,4310
+2005,12,MQ,American Eagle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",62,25,11.59,1.44,7.97,0,4,2,1,1044,520,36,287,0,201
+2005,12,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",202,74,27.85,6.43,33.61,0,6.1,6,1,5123,1118,1000,2690,0,315
+2005,12,RU,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",110,31,6.59,0.1,13.78,0,10.53,5,1,1390,260,7,605,0,518
+2005,12,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",830,178,18.47,0.66,85.1,0.3,73.48,25,7,10447,995,66,4181,6,5199
+2005,12,UA,United Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",90,46,7.6,0.21,23.71,0,14.47,6,0,2717,493,9,1006,0,1209
+2005,12,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",5735,1071,235.12,39.54,301.6,4.74,489.99,145,69,48200,9970,3355,12551,111,22213
+2006,1,AA,American Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",80,8,0.36,0.73,4.85,0,2.05,0,1,336,12,79,138,0,107
+2006,1,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",51,11,0.22,0,8.55,0,2.23,2,0,485,8,0,298,0,179
+2006,1,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",175,47,17.83,10.43,15.96,0,2.78,8,3,2219,877,656,614,0,72
+2006,1,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",151,17,7.47,0,6.51,0,3.02,0,0,723,370,0,241,0,112
+2006,1,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",536,111,34.45,1.59,32.66,0,42.3,9,1,6191,1502,58,1234,0,3397
+2006,1,MQ,American Eagle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",62,18,8.97,0.03,3.46,0,5.54,1,1,635,356,1,98,0,180
+2006,1,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",266,36,13.67,2.72,15.55,0,4.06,8,0,1213,553,110,421,0,129
+2006,1,RU,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",130,14,3.76,0,3.89,0,6.35,0,0,499,99,0,105,0,295
+2006,1,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",702,124,14.34,0.9,48.56,0,60.2,13,0,8242,1150,87,2145,0,4860
+2006,1,UA,United Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",90,15,5.14,0,5.81,0,4.05,6,0,598,226,0,204,0,168
+2006,1,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",5894,749,184.04,33.07,165.36,2.18,364.34,69,10,33284,7545,2275,6107,55,17302
+2006,1,YV,Mesa Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",93,17,12.37,0,3.63,0,1,5,0,1254,960,0,191,0,103
+2006,2,AA,American Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",70,11,0.99,1.72,4.32,0,3.97,1,1,602,144,54,109,0,295
+2006,2,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",46,16,1.41,1.19,11.26,0,2.13,1,1,546,66,47,301,0,132
+2006,2,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",158,48,17.76,13.88,15.4,0,0.95,5,0,1922,811,641,446,0,24
+2006,2,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",140,21,9.27,0,9.17,0,2.56,0,1,737,344,0,279,0,114
+2006,2,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",532,159,26.91,0,66.25,0,65.84,9,1,7221,1085,0,2378,0,3758
+2006,2,MQ,American Eagle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",56,21,8.57,0.93,4.8,0,6.71,6,1,946,302,28,265,0,351
+2006,2,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",247,44,15.99,2.91,22.34,0,2.75,9,1,1752,656,229,763,0,104
+2006,2,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",28,14,4.9,3.25,4.84,0,1,1,0,539,244,106,172,0,17
+2006,2,RU,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",111,26,2.93,0.75,11.8,0,10.52,1,0,942,202,17,337,0,386
+2006,2,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",593,167,23.49,1.62,80.38,0.41,61.1,16,1,10802,2253,127,2819,11,5592
+2006,2,UA,United Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",80,24,3.41,0,7.3,0,13.3,6,1,1378,107,0,292,0,979
+2006,2,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",5340,927,228.29,28.06,224.71,3.01,442.93,65,18,42570,9220,2310,8593,114,22333
+2006,2,YV,Mesa Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",81,22,10,1,1,0,10,1,1,1422,338,20,22,0,1042
+2006,3,AA,American Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",81,20,2.91,2.04,7.98,0,7.07,0,1,1254,156,179,417,0,502
+2006,3,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",106,30,4,0.33,10.59,0,15.08,3,0,2114,363,6,523,0,1222
+2006,3,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",162,42,19.34,8.05,13.91,0,0.7,5,1,1655,787,421,424,0,23
+2006,3,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",151,36,11.19,0.35,15.12,0,9.34,0,2,1425,465,25,592,0,343
+2006,3,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",721,157,19.88,0,71.26,0,65.86,3,4,6941,706,0,2474,0,3761
+2006,3,MQ,American Eagle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",62,22,8.81,0.23,6.33,0,6.63,3,1,1140,415,28,218,0,479
+2006,3,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",267,50,22.17,1.74,18.76,0,7.33,7,3,2364,1018,114,619,0,613
+2006,3,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",31,13,4.8,2,6.2,0,0,0,0,499,192,114,193,0,0
+2006,3,RU,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",137,28,7.71,0,11.63,0,8.66,1,1,1289,312,0,529,0,448
+2006,3,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",658,147,23.14,1.64,62.01,0,60.21,8,0,9577,1717,101,2815,0,4944
+2006,3,UA,United Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",89,25,3.61,0,9.77,0,11.61,4,1,2022,277,0,595,0,1150
+2006,3,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",5952,922,224.1,46.94,183.22,6.46,461.28,35,29,41158,9433,3618,7587,188,20332
+2006,3,YV,Mesa Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",89,9,5,0,1,0,3,0,3,654,446,0,16,0,192
+2006,4,AA,American Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",87,22,3.54,0.74,7.16,0,10.56,0,0,937,119,24,330,0,464
+2006,4,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",104,35,4.31,1.02,14.2,0.15,15.32,1,1,2219,202,73,757,17,1170
+2006,4,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",152,32,10.8,5.86,13.32,1.02,1,6,1,1598,554,313,602,105,24
+2006,4,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",148,30,5.34,1.29,16.18,0,7.2,0,0,1150,203,41,639,0,267
+2006,4,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",719,170,27.26,0,75.78,0,66.96,5,5,7911,1015,0,2968,0,3928
+2006,4,MQ,American Eagle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",60,24,10.97,1.65,7.37,0,4.01,6,1,1065,415,163,272,0,215
+2006,4,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",287,49,22.46,4.81,18.78,0,2.95,6,3,2050,920,322,533,0,275
+2006,4,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",30,10,3.08,2,4.92,0,0,0,0,573,126,163,284,0,0
+2006,4,RU,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",116,26,3.08,0,15.3,0,7.62,0,0,1222,110,0,647,0,465
+2006,4,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",542,154,18.36,0,74.43,1.61,59.61,4,0,9590,951,0,3805,36,4798
+2006,4,UA,United Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",85,23,3.37,0,8.31,0,11.32,5,1,929,106,0,333,0,490
+2006,4,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",5744,1096,228.76,62.56,270.58,4.39,529.73,16,70,51626,8736,4964,11233,169,26524
+2006,4,YV,Mesa Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",83,25,16,1,1,0,7,2,1,1779,1240,164,18,0,357
+2006,5,AA,American Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",91,24,6.55,2.14,6.94,0,8.38,0,0,1298,327,155,368,0,448
+2006,5,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",109,27,4.05,0.76,9.17,0,13.02,0,0,2332,312,56,820,0,1144
+2006,5,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",178,54,24.87,9.19,16.68,1,2.25,2,0,2943,1608,404,719,81,131
+2006,5,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",154,24,11.52,0.65,9.88,0,1.95,0,2,974,487,93,301,0,93
+2006,5,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",911,163,20.22,0,67.56,0,75.21,13,2,8018,922,0,3271,0,3825
+2006,5,MQ,American Eagle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",62,25,10.36,0.9,6.31,0,7.44,5,1,995,471,41,169,0,314
+2006,5,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",240,50,20.63,9.26,16.73,0,3.38,1,2,2779,969,710,978,0,122
+2006,5,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",31,8,6,1.75,0.25,0,0,2,1,626,450,144,32,0,0
+2006,5,RU,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",120,16,2.52,0,9.48,0,4,4,1,630,86,0,444,0,100
+2006,5,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",404,143,14.45,0,68.05,0.81,59.7,6,0,9143,725,0,3317,91,5010
+2006,5,UA,United Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",89,32,8.75,1.33,14.25,1,6.67,3,1,1889,602,26,585,16,660
+2006,5,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6030,1289,268.7,85.59,342.62,2.67,589.43,19,32,63460,11474,7273,15234,81,29398
+2006,5,YV,Mesa Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",81,24,11,0,6,0,7,1,0,1481,628,0,303,0,550
+2006,6,AA,American Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",90,8,6.14,0,1.13,0,0.72,1,1,533,418,0,99,0,16
+2006,6,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",101,41,5.45,1.41,15.64,0,18.5,2,1,4435,494,404,1510,0,2027
+2006,6,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",273,124,56.25,17.99,45.2,0.88,3.68,16,0,6356,2806,1243,1923,71,313
+2006,6,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",150,31,10.57,0.11,15.27,0,5.05,0,0,1378,521,5,675,0,177
+2006,6,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",948,272,52.22,4.3,95.67,0,119.81,8,2,16668,2042,222,3754,0,10650
+2006,6,MQ,American Eagle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",61,22,9.43,0.22,8.01,0,4.34,3,1,843,357,7,266,0,213
+2006,6,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",212,35,14.54,4.44,13.54,0,2.48,1,0,2425,1527,240,457,0,201
+2006,6,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",30,14,3.38,6,2.62,0,2,1,0,1046,159,700,99,0,88
+2006,6,RU,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",127,31,8.35,1.12,13.32,0,8.2,6,0,2113,677,30,641,0,765
+2006,6,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",401,149,14.75,0.28,69.44,1.22,63.32,5,1,11220,1316,26,4088,43,5747
+2006,6,UA,United Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",86,33,7.17,0.52,14.01,0,11.3,2,2,1806,545,25,522,0,714
+2006,6,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",5983,1528,385.19,72.76,255,5.35,809.7,20,25,81913,17309,5986,10920,137,47561
+2006,6,YV,Mesa Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",64,24,13,0,6,0,5,5,0,1833,1023,0,247,0,563
+2006,7,AA,American Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",90,16,4.05,1.21,4.81,0,5.93,1,0,1060,191,72,394,0,403
+2006,7,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",95,47,13.98,3.45,15.1,0,14.47,1,0,5163,763,724,1415,0,2261
+2006,7,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",255,106,44.95,7.84,44.18,0,9.03,15,1,5157,2474,476,1871,0,336
+2006,7,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",155,38,17.41,0.25,18.33,0,2.01,0,1,1239,494,11,651,0,83
+2006,7,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",971,230,51.73,0.56,76.33,0,101.39,11,2,17513,2122,13,5721,0,9657
+2006,7,MQ,American Eagle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",62,13,8.71,0,0.17,0,4.13,2,0,531,360,0,6,0,165
+2006,7,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",242,55,25.79,5.79,17.46,0,5.96,4,0,2965,1517,557,671,0,220
+2006,7,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",25,18,8.21,1.88,7.07,0,0.85,0,0,922,363,203,306,0,50
+2006,7,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",407,139,17.72,0.22,64.03,0.88,56.15,4,0,12433,1592,11,4523,14,6293
+2006,7,UA,United Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",88,36,5.05,0,15.93,0,15.02,2,0,2014,241,0,749,0,1024
+2006,7,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6236,1398,305.35,89.08,268.79,1.86,732.93,26,18,87411,14165,11890,18762,41,42553
+2006,7,XE,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",136,24,6.55,1.8,7,0,8.65,7,0,1025,277,119,273,0,356
+2006,7,YV,Mesa Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",62,28,19,3,2,0,4,3,0,1874,1140,225,100,0,409
+2006,8,AA,American Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",93,17,5.29,3.31,3.82,0.32,4.26,2,0,759,179,162,167,10,241
+2006,8,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",100,44,7.47,2,17.24,0.02,17.27,0,0,3034,311,483,925,4,1311
+2006,8,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",245,96,49.88,11.56,22.8,0,11.76,10,1,5299,2494,832,1361,0,612
+2006,8,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",164,18,9.55,0,6.61,0,1.85,0,1,818,327,0,264,0,227
+2006,8,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",948,252,60.64,1,80.6,0,109.76,16,2,14836,2365,81,4251,0,8139
+2006,8,MQ,American Eagle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",62,10,5.2,0.74,3.12,0,0.94,2,0,482,186,70,190,0,36
+2006,8,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",254,51,25.53,3.44,16.73,0.58,4.72,4,1,2178,1222,134,555,14,253
+2006,8,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",27,17,6.16,1.99,8.85,0,0,1,0,1351,454,223,674,0,0
+2006,8,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",441,145,20.29,0,53.46,4.31,66.95,7,1,10635,1743,0,3342,151,5399
+2006,8,UA,United Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",89,18,2.56,0.59,5.04,0,9.81,4,1,1062,116,17,167,0,762
+2006,8,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6343,1035,205.71,48.29,169.78,30.66,580.56,53,36,53647,9105,4251,9367,1143,29781
+2006,8,XE,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",140,24,8.23,0,11.84,0,3.93,2,1,996,263,0,543,0,190
+2006,8,YV,Mesa Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",62,20,15,0,1,0,4,4,0,1154,723,0,36,0,395
+2006,9,AA,American Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",12,2,0.05,0,1,0,0.95,1,0,57,2,0,15,0,40
+2006,9,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",95,23,1.33,0.13,13.68,0,7.86,0,0,1346,70,10,588,0,678
+2006,9,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",203,83,26.96,15.53,33.38,0,7.14,12,0,4688,1391,1081,1703,0,513
+2006,9,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",171,28,8.76,0.53,14.73,0,3.98,0,0,1088,360,21,579,0,128
+2006,9,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",848,211,22.03,0,92.72,0,96.24,14,2,11395,1081,0,4131,0,6183
+2006,9,MQ,American Eagle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",10,1,1,0,0,0,0,2,0,47,47,0,0,0,0
+2006,9,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",277,85,24.17,10.45,43.21,0,7.18,2,0,3918,1035,679,1796,0,408
+2006,9,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",24,11,6.55,3,1.45,0,0,3,0,743,447,201,95,0,0
+2006,9,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",412,112,6.9,0.95,54.35,0,49.81,3,0,7005,356,35,3036,0,3578
+2006,9,UA,United Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",12,3,0.85,0,0.11,0,2.04,0,0,154,88,0,3,0,63
+2006,9,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",5997,1059,159.48,85.48,367.04,5.73,441.27,49,12,54164,7255,5496,16852,211,24350
+2006,9,XE,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",128,31,2.11,0,25.45,0,3.44,0,0,1755,130,0,1540,0,85
+2006,9,YV,Mesa Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",10,2,1,0,1,0,0,0,0,102,73,0,29,0,0
+2006,10,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",102,32,8.15,0,11.64,0.5,11.72,1,1,2194,647,0,573,33,941
+2006,10,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",159,58,22.69,6.59,23.06,0,5.66,3,2,2621,1204,455,749,0,213
+2006,10,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",176,24,7.05,1.91,12.56,0,2.48,3,0,1159,264,219,597,0,79
+2006,10,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",901,222,21.04,0,90.38,0,110.58,12,4,10318,949,0,2822,0,6547
+2006,10,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",294,90,20.6,6.48,53.13,0,9.78,7,0,3424,905,286,1791,0,442
+2006,10,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",27,9,2.83,4.93,1.24,0,0,0,0,600,164,378,58,0,0
+2006,10,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",439,114,7.89,0,58.2,0.81,47.09,4,0,7310,786,0,2926,22,3576
+2006,10,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6446,1118,191.24,37.37,360.08,3.61,525.7,59,34,51352,8478,4176,13532,91,25075
+2006,10,XE,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",133,36,3.61,0,25.1,0,7.29,3,0,1434,157,0,988,0,289
+2006,11,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",93,27,7.01,1.11,6.54,0,12.34,0,1,2102,420,40,414,0,1228
+2006,11,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",205,56,26.09,3.73,19.9,0,6.27,7,0,2268,1197,162,659,0,250
+2006,11,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",161,26,8.03,0,14.36,0,3.61,1,1,754,205,0,466,0,83
+2006,11,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",892,183,19.99,0,73.41,0,89.59,11,2,8492,571,0,2414,0,5507
+2006,11,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",305,74,24.18,3.25,40.03,0,6.54,3,0,3266,1486,286,1229,0,265
+2006,11,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",28,10,5.4,2,0.6,0,2,3,0,528,236,190,40,0,62
+2006,11,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",413,88,8.6,0,34.18,0.97,44.26,10,0,6286,914,0,1459,29,3884
+2006,11,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6128,871,160.72,25.27,259.18,6.23,419.6,57,22,39616,6662,3027,9935,137,19855
+2006,11,XE,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",106,19,3.58,1,9.66,1,3.76,1,1,611,110,32,269,42,158
+2006,12,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",90,38,8.32,0,10.87,0,18.81,1,0,2601,689,0,500,0,1412
+2006,12,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",211,50,23.25,5.18,16.22,0,5.35,14,1,2478,985,489,605,0,399
+2006,12,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",157,33,8.32,5.66,15.53,0,3.49,20,0,1471,262,318,670,0,221
+2006,12,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",909,219,33.87,0,87.18,0,97.95,25,3,12228,1343,0,4263,0,6622
+2006,12,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",314,114,49.9,10.33,47.25,0,6.52,7,2,5118,2428,525,1744,0,421
+2006,12,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",27,6,5.57,0,0.43,0,0,0,0,233,220,0,13,0,0
+2006,12,TZ,ATA Airlines d/b/a ATA,MDW,"Chicago, IL: Chicago Midway International",415,104,13.28,0,45.78,1.2,43.74,8,0,6724,950,0,2218,25,3531
+2006,12,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6314,1400,245.8,102.56,414.72,12.74,624.18,124,22,76521,11403,9573,20457,305,34783
+2006,12,XE,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",98,36,7.73,0.5,20.14,0.25,7.38,6,0,2180,337,67,1105,6,665
+2007,1,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",72,18,2.57,0.44,5.84,0,9.15,0,0,1282,247,31,367,0,637
+2007,1,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",204,34,13.12,6.48,10.76,0.63,3.02,7,0,1792,465,587,586,15,139
+2007,1,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",168,35,10.27,1.97,18.31,0,4.45,0,0,1464,443,96,753,0,172
+2007,1,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",784,142,24.08,0,55.56,0,62.36,10,2,6451,1250,0,1847,0,3354
+2007,1,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",321,92,34.09,1.3,49.91,0,6.71,4,1,3365,1432,133,1534,0,266
+2007,1,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",74,37,20.57,3.86,11.57,0,1,3,1,2400,1625,287,469,0,19
+2007,1,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6467,911,174.87,34.17,274.07,1.94,425.96,123,8,36184,6658,1829,8535,65,19097
+2007,1,XE,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",105,35,5.92,0,18.57,0,10.51,0,0,1362,336,0,569,0,457
+2007,2,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",52,20,1.55,0.63,5.72,0,12.1,2,1,1200,239,31,287,0,643
+2007,2,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",148,47,27.21,2.42,13.25,0,4.13,14,1,1930,1000,159,600,0,171
+2007,2,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",152,45,17.57,0,19.45,0,7.98,10,1,1809,840,0,661,0,308
+2007,2,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",685,217,29.85,1,97.8,0,88.35,26,8,10897,1187,58,4659,0,4993
+2007,2,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",288,102,33.46,3.38,52.26,0,12.89,29,3,5167,1395,912,2294,0,566
+2007,2,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",64,32,11.23,3.56,15.72,0,1.48,10,1,1599,710,188,592,0,109
+2007,2,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",5842,1283,224.97,87.2,400.37,12.7,557.76,331,65,70679,10512,10858,18820,444,30045
+2007,2,XE,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",89,24,4.04,0,13.13,0,6.83,8,1,1308,288,0,743,0,277
+2007,3,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",48,15,2.09,0.01,3.28,0,9.62,1,0,1107,72,3,237,0,795
+2007,3,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",123,31,19.47,1,6.47,0,4.06,8,0,2404,1769,19,385,0,231
+2007,3,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",147,22,6.79,0.09,11.77,0,3.35,0,2,1185,380,3,550,0,252
+2007,3,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",774,223,40.43,0.68,108.01,0,73.87,5,3,10828,1593,94,3671,0,5470
+2007,3,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",317,100,44.22,2.98,39.34,0,13.46,30,1,4640,2252,121,1477,0,790
+2007,3,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",84,34,11.12,6.04,13.37,0,3.47,6,0,2205,735,548,646,0,276
+2007,3,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6602,1267,257.71,41.62,397.54,8.47,561.65,89,10,58861,11038,3069,14709,294,29751
+2007,3,XE,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",94,31,7.18,0.46,13.9,0,9.46,1,0,1507,345,31,714,0,417
+2007,4,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",47,17,0.18,0.18,4.63,0,12,0,0,1411,8,16,360,0,1027
+2007,4,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",110,39,21.96,2.06,11.96,0,3.01,3,1,2242,1254,129,703,0,156
+2007,4,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",152,31,8.91,0,18.11,0,3.98,0,0,1413,421,0,720,0,272
+2007,4,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",762,189,41.31,0,82.42,0,65.27,2,3,8342,1473,0,3234,0,3635
+2007,4,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",307,83,27.68,5.21,44.09,0,6.02,15,0,3566,1436,339,1456,0,335
+2007,4,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",77,34,9.14,9.64,13.34,0,1.89,4,0,1910,705,487,591,0,127
+2007,4,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6547,1173,244.98,70.2,355.68,8.8,493.34,52,17,66368,12045,8666,17058,200,28399
+2007,4,XE,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",89,28,6.67,0.42,10.61,0,10.29,1,0,1554,375,18,734,0,427
+2007,5,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",50,15,1.43,0.94,2.12,0,10.51,0,0,1234,104,91,248,0,791
+2007,5,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",67,17,6.9,0,6.49,0,3.61,1,0,675,247,0,241,0,187
+2007,5,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",170,41,11.06,4.14,23.02,0,2.78,0,0,2205,927,398,801,0,79
+2007,5,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",793,118,24.73,0.23,44.99,0,48.05,7,2,5109,716,15,2009,0,2369
+2007,5,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",330,78,21.88,4.95,47.46,0,3.71,8,1,3385,1123,330,1665,0,267
+2007,5,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",28,5,4.19,0,0.81,0,0,1,0,490,467,0,23,0,0
+2007,5,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6736,1093,228.67,71.22,270.6,8.08,514.43,17,16,52612,9291,5906,11957,261,25197
+2007,5,XE,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",91,20,4.73,0,7.04,0,8.24,1,0,940,270,0,344,0,326
+2007,6,9E,Pinnacle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",24,10,3.38,0.96,4.66,0,1,0,0,434,156,117,137,0,24
+2007,6,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",51,18,2.2,0.01,10.66,0,5.13,0,0,2578,208,2,1867,0,501
+2007,6,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",122,39,21.69,2.36,12.58,0,2.36,4,0,2491,1428,250,716,0,97
+2007,6,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",163,56,20.33,1.24,25.91,0,8.52,1,0,2736,1141,139,1089,0,367
+2007,6,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",776,173,25.12,1.31,60.57,0,86.01,7,3,11547,994,117,3615,0,6821
+2007,6,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",270,77,26.92,4.88,36.88,0,8.32,24,1,3415,1360,382,1223,0,450
+2007,6,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",30,4,3.8,0,0.2,0,0,0,0,160,150,0,10,0,0
+2007,6,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6560,1507,296.66,86.21,323.56,12.65,787.91,19,17,95802,13996,8461,21771,310,51264
+2007,6,XE,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",91,26,3.84,2,8.98,0,11.18,0,0,1635,287,153,402,0,793
+2007,7,9E,Pinnacle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",38,9,1.36,0,4.49,0,3.14,0,0,645,38,0,285,0,322
+2007,7,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",44,8,0.1,0,3.28,0,4.62,2,0,677,8,0,375,0,294
+2007,7,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",156,61,34.51,7.52,10.1,0,8.87,6,1,4593,2556,945,510,0,582
+2007,7,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",172,52,14.59,3.43,28.15,0,5.84,0,1,1774,375,162,982,0,255
+2007,7,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",714,190,35.44,5.57,51.85,0,97.13,3,3,11537,1417,300,2798,0,7022
+2007,7,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",243,56,29.01,4.48,14.62,0,7.89,14,1,2705,1196,515,516,0,478
+2007,7,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",31,5,3,0,2,0,0,3,1,190,122,0,68,0,0
+2007,7,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6773,1580,297.5,75.6,336.82,6.35,863.72,14,33,91962,13697,7169,17220,249,53627
+2007,7,XE,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",92,15,4.88,1,3.08,0,6.04,3,0,782,138,120,233,0,291
+2007,8,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",50,13,3.47,0.44,3.26,0.64,5.19,1,0,1121,226,17,182,18,678
+2007,8,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",156,70,40.73,7.07,10.02,0,12.18,5,1,4180,2335,568,506,0,771
+2007,8,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",178,40,7.54,3.8,23.5,0,5.16,0,1,1743,262,166,900,0,415
+2007,8,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",658,192,42.46,0,65.2,0,84.33,9,5,12778,2749,0,4054,0,5975
+2007,8,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",267,81,20.67,2.73,44.82,0,12.78,2,2,3266,688,250,1662,0,666
+2007,8,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",31,7,5.36,0,1.64,0,0,1,0,290,261,0,29,0,0
+2007,8,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6846,1453,270.17,75.09,366.83,12.13,728.79,47,63,83009,11781,7630,18901,260,44437
+2007,8,XE,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",70,17,7.66,0,4.9,0,4.44,0,1,1336,479,0,490,0,367
+2007,9,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",48,6,0.2,0,1.47,0,4.33,0,1,405,11,0,167,0,227
+2007,9,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",105,33,19.19,3.54,7.15,0,3.11,2,1,2113,1305,210,285,0,313
+2007,9,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",175,14,5.51,0,5.35,0,3.14,0,0,313,142,0,103,0,68
+2007,9,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",567,99,18.43,1.89,36.3,0,42.38,4,2,4837,651,105,1311,0,2770
+2007,9,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",247,48,8.29,2.03,28.98,0,8.69,0,0,1866,306,173,973,0,414
+2007,9,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",27,6,3.91,0,2.09,0,0,0,0,209,150,0,59,0,0
+2007,9,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6490,725,137.48,23.94,185.04,4.18,374.37,38,12,32010,5398,1451,6667,107,18387
+2007,9,XE,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",85,16,2.66,1,6.01,1,5.33,0,0,609,73,39,344,32,121
+2007,10,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",50,12,1.46,0.2,1.97,0,8.37,2,1,1363,209,20,435,0,699
+2007,10,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",147,30,19.02,1.78,6.41,0,2.8,5,2,1564,1019,114,264,0,167
+2007,10,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",176,20,5.31,1.3,9.79,0,3.6,0,0,559,167,31,251,0,110
+2007,10,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",583,113,16.97,0.12,46.2,0,49.72,5,3,5446,667,5,1852,0,2922
+2007,10,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",259,54,13.6,1,30.26,0,9.15,5,1,1803,558,69,830,0,346
+2007,10,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",31,9,4.19,1,3.81,0,0,0,0,447,242,79,126,0,0
+2007,10,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6811,1013,172.84,28.07,244.93,4.86,562.3,25,20,46597,7232,3351,8959,218,26837
+2007,10,XE,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",93,18,1.85,0,5.96,0,10.19,1,1,625,110,0,145,0,370
+2007,11,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",50,12,1.4,0,4.69,0,5.91,1,0,782,62,0,186,0,534
+2007,11,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",,,,,,,,,,,,,,,
+2007,11,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",145,15,7.46,0,5.71,0,1.83,0,1,360,149,0,146,0,65
+2007,11,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",586,116,14.07,0,59.82,0,42.12,3,0,4953,681,0,1729,0,2543
+2007,11,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",285,54,16.61,1,33,0,3.4,0,1,2017,896,77,929,0,115
+2007,11,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",30,11,6.78,0,3.22,0,1,1,0,492,358,0,79,0,55
+2007,11,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6454,851,195.54,9,187.73,3.42,455.3,25,12,34108,7194,439,5588,71,20816
+2007,11,XE,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",87,22,5.45,0,7.47,0,9.09,0,0,900,195,0,255,0,450
+2007,12,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",47,13,0.27,1.17,3.83,0.89,6.83,8,1,1320,68,207,169,34,842
+2007,12,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",145,61,21.28,1.77,28,0,9.95,3,0,3447,1132,139,1459,0,717
+2007,12,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",616,201,25.04,0.87,80.02,0,95.07,16,4,10800,1328,13,3291,0,6168
+2007,12,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",222,85,16.46,5.71,51.57,0,11.26,7,1,4954,753,1142,2193,0,866
+2007,12,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",31,7,2.16,1,3.84,0,0,3,0,472,107,112,253,0,0
+2007,12,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6527,1789,302.22,182.37,527.83,9.45,767.13,135,54,102379,13631,16238,27673,269,44568
+2007,12,XE,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",75,24,6.13,0.97,9.73,0,7.17,4,2,1396,478,100,415,0,403
+2008,1,9E,Pinnacle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,1,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",42,7,0.45,0,2.39,0,4.16,1,3,562,30,0,275,0,257
+2008,1,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",150,32,16.18,0,12.31,0,3.51,2,1,1108,622,0,379,0,107
+2008,1,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",491,141,26.19,1.27,69.6,0,43.94,7,7,6007,915,126,2398,0,2568
+2008,1,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",199,61,10.32,3.98,43.25,0,3.45,4,5,2559,403,356,1671,0,129
+2008,1,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",31,16,7.7,3.56,4.74,0,0,3,0,881,407,310,164,0,0
+2008,1,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6738,1413,250.22,95.16,515.58,7.15,544.89,117,39,81812,12568,8810,27967,218,32249
+2008,1,XE,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",46,12,5.24,0.12,4.76,0,1.87,1,0,1013,350,6,444,0,213
+2008,2,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",41,11,2.77,1.86,3.29,0,3.07,5,1,646,182,144,181,0,139
+2008,2,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",12,4,2.06,0.94,1,0,0,0,1,253,82,102,69,0,0
+2008,2,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",141,29,10.82,0.08,15.62,0,2.49,6,0,1038,420,8,537,0,73
+2008,2,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",486,146,25.64,1.99,49.4,0,68.98,20,5,7582,934,359,1780,0,4509
+2008,2,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",181,61,13.65,3.31,40.53,0.21,3.29,17,0,3274,706,773,1655,9,131
+2008,2,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",29,11,5.13,1,4.87,0,0,2,0,707,370,126,211,0,0
+2008,2,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6323,1553,238.18,100.76,468.1,8.26,737.69,328,161,90327,12140,10527,21019,217,46424
+2008,2,XE,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",50,24,6.63,0,12.95,0,4.42,3,0,1699,677,0,629,0,393
+2008,3,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",42,15,1.76,2.37,3.86,0,7.01,3,0,882,156,128,150,0,448
+2008,3,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",173,30,13.08,0.14,10.57,0,6.21,1,0,1181,554,9,447,0,171
+2008,3,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",572,171,33.97,1.17,49,0,86.86,5,3,9626,1610,65,1948,0,6003
+2008,3,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",156,45,14,3.27,21.67,0,6.06,3,0,2294,809,184,895,0,406
+2008,3,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",31,7,4.2,1,1.8,0,0,1,0,389,217,54,118,0,0
+2008,3,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6768,1538,325.06,48.19,402.03,10.19,752.53,78,11,69068,14296,3391,14575,256,36550
+2008,3,XE,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",66,22,4.11,0.5,9.36,0,8.03,8,0,1088,237,15,401,0,435
+2008,4,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",8,2,0,0,0.25,0,1.75,1,0,184,0,0,17,0,167
+2008,4,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",175,29,13.33,0.05,11.36,0,4.26,0,0,1093,541,4,366,0,182
+2008,4,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",593,92,16.34,0.31,34.83,0,40.52,1,1,4685,706,17,1293,0,2669
+2008,4,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",198,41,12.37,2.57,20.16,0,5.89,2,0,1492,429,203,648,0,212
+2008,4,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",30,14,10.92,1,1.08,0,1,1,0,949,744,105,45,0,55
+2008,4,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6612,1071,218.91,55.26,305.63,3.32,487.88,22,16,47981,9564,4562,11522,85,22248
+2008,4,XE,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",81,26,10.67,1.85,7.72,0,5.76,1,1,1487,629,162,339,0,357
+2008,5,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",5,1,0.87,0,0.13,0,0,0,0,15,13,0,2,0,0
+2008,5,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",181,35,8.03,1.58,18.61,0,6.78,0,0,1343,253,43,737,0,310
+2008,5,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",513,67,14.28,0,23.89,0,28.82,3,1,3014,594,0,968,0,1452
+2008,5,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",150,19,3.92,2.21,7.52,0,5.35,1,0,687,169,140,230,0,148
+2008,5,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",29,15,10.49,2,2.51,0,0,0,0,712,537,105,70,0,0
+2008,5,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6688,948,183.45,26.36,221.33,3.55,513.33,15,5,45826,8772,2325,7809,88,26832
+2008,5,XE,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",88,38,13.11,0.42,10.91,0,13.56,4,0,2591,763,20,648,0,1160
+2008,6,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",175,34,8.68,0.87,14.43,0,10.02,0,0,1322,385,32,514,0,391
+2008,6,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",439,136,26.63,1.57,50.32,0,57.48,1,4,7737,1042,95,2608,0,3992
+2008,6,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",98,16,4.12,0.48,9.24,0,2.16,7,0,701,144,35,441,0,81
+2008,6,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",34,22,8.18,2.15,9.06,0,2.61,0,0,1262,429,209,501,0,123
+2008,6,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6553,1353,252.03,85.19,265.66,3.8,746.32,5,47,81293,12773,7799,13314,106,47301
+2008,7,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",185,37,11.39,1.6,17.55,0,6.46,0,0,1582,481,96,623,0,382
+2008,7,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",426,122,36.79,1.42,28.56,0,55.22,5,3,9180,1788,92,1401,0,5899
+2008,7,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",60,7,2.34,0,4.66,0,0,0,1,271,62,0,209,0,0
+2008,7,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",35,22,9.53,3.11,9.36,0,0,5,0,1115,618,172,325,0,0
+2008,7,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6725,998,202.94,52.26,166.3,5.94,570.56,13,12,57123,10244,4289,7325,425,34840
+2008,8,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",180,31,12.92,1.01,15.21,0,1.86,0,0,1738,902,59,712,0,65
+2008,8,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",412,83,20.53,1.69,21.72,0,39.07,3,4,4252,582,122,1166,0,2382
+2008,8,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",69,1,0,0,1,0,0,1,0,32,0,0,32,0,0
+2008,8,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",37,16,12.49,2,1.51,0,0,1,0,911,745,115,51,0,0
+2008,8,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6632,861,161.23,48.01,149.71,3.61,498.44,23,34,43134,6908,3730,7372,96,25028
+2008,9,9E,Pinnacle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,9,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",143,10,5.36,0.35,4.24,0,0.05,0,0,222,126,7,88,0,1
+2008,9,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",316,38,13.38,0,12.76,0,11.86,0,0,1384,499,0,340,0,545
+2008,9,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",81,4,0,0.95,3.05,0,0,1,1,103,0,35,68,0,0
+2008,9,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",30,9,6,2,1,0,0,0,0,463,364,81,18,0,0
+2008,9,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6400,515,138.48,12.33,107.12,0.92,256.15,62,4,20946,5738,923,3147,33,11105
+2008,10,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",151,9,3.57,0,4.57,0,0.86,0,0,351,178,0,98,0,75
+2008,10,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",339,58,13.04,0.39,18.8,0,25.77,0,0,2359,440,23,500,0,1396
+2008,10,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",112,10,6.06,0,3.43,0,0.5,0,0,330,198,0,100,0,32
+2008,10,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",31,6,3,0.81,2.19,0,0,0,0,355,202,60,93,0,0
+2008,10,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6627,552,151.71,4.53,103.66,0.7,291.39,24,6,22112,6392,198,2579,15,12928
+2008,11,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",145,26,7.7,0.34,15.09,0,2.87,0,0,982,295,12,536,0,139
+2008,11,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",403,78,8.83,0,31.28,0,37.89,0,0,3614,294,0,977,0,2343
+2008,11,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",119,6,4.2,0,1.25,0,0.56,2,0,162,123,0,29,0,10
+2008,11,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",30,8,2.01,3.82,2.17,0,0,1,0,302,52,173,77,0,0
+2008,11,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",5912,584,147.87,12.1,106.59,1.35,316.1,32,5,27553,6804,308,2935,59,17447
+2008,12,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",153,57,20.16,0.46,30.53,0,5.85,2,1,3287,1283,28,1672,0,304
+2008,12,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",401,146,31.4,0,46.95,0,67.64,13,7,7628,1533,0,2765,0,3330
+2008,12,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",135,34,6.8,3.26,18.23,0,5.71,12,0,1360,240,227,653,0,240
+2008,12,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",30,17,10.33,2.91,3.76,0,0,2,1,1294,1004,126,164,0,0
+2008,12,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",5861,1658,340.57,153.27,458.83,11.94,693.4,191,146,124910,20172,20772,34137,318,49511
+2009,1,9E,Pinnacle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",73,16,9.36,0,6.19,0,0.44,1,0,412,249,0,147,0,16
+2009,1,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",138,41,13.47,0.05,23.01,0,4.47,1,0,1561,504,3,805,0,249
+2009,1,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",386,85,20.44,0,23.73,0,40.83,4,2,3614,915,0,848,0,1851
+2009,1,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",39,6,3.38,0,1.64,0,0.98,2,0,318,175,0,88,0,55
+2009,1,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",4,3,1.95,0.62,0.43,0,0,0,0,455,317,80,58,0,0
+2009,1,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",5701,921,186.39,50.89,278.54,2.59,402.58,143,21,41294,8461,2953,10391,60,19429
+2009,2,9E,Pinnacle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",30,5,4,0,0.04,0,0.96,0,0,260,129,0,5,0,126
+2009,2,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",33,3,2.17,0.33,0.5,0,0,0,1,109,66,20,23,0,0
+2009,2,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",108,12,1.93,0,7.32,0,2.75,0,0,502,58,0,254,0,190
+2009,2,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",396,73,18.43,0,25.78,0,28.79,0,4,2894,764,0,702,0,1428
+2009,2,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",85,11,3.11,0,5.88,0,2.01,2,0,478,123,0,277,0,78
+2009,2,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",5106,482,119.71,19.51,136.58,2,204.19,41,38,22354,5120,1378,5076,71,10709
+2009,3,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",62,19,6.21,0,4.49,0,8.3,2,0,901,268,0,125,0,508
+2009,3,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",124,32,6.33,0.77,10.46,0,14.44,3,0,1351,221,59,362,0,709
+2009,3,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",495,134,27.67,2.79,39.01,0,64.53,2,2,6224,1211,419,1385,0,3209
+2009,3,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",164,23,4.6,1.37,15.85,0,1.18,2,1,788,150,144,463,0,31
+2009,3,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6246,805,178.4,66.13,160.78,3.19,396.5,36,28,44199,8559,6065,7334,78,22163
+2009,4,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",146,42,12.66,1.07,10.53,0,17.74,2,2,2535,496,316,353,0,1370
+2009,4,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",127,34,8.87,0.76,12.6,0,11.78,1,0,1454,378,152,454,0,470
+2009,4,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",463,93,19.71,0,18.2,0,55.09,3,0,4320,532,0,626,0,3162
+2009,4,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",188,17,4.69,0,9.3,0,3.01,0,0,722,345,0,317,0,60
+2009,4,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6197,760,208.85,12.45,89.07,3.71,445.92,17,5,38329,9658,617,3197,111,24746
+2009,5,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",147,47,15.68,0,9.16,0,22.15,1,1,2794,1169,0,284,0,1341
+2009,5,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",154,27,7.11,0.09,3.76,0,16.04,2,0,1082,257,6,218,0,601
+2009,5,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",455,97,21.36,0,26.68,0,48.96,0,3,4151,980,0,869,0,2302
+2009,5,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",208,17,9.08,1,4.02,0,2.89,0,1,730,481,19,155,0,75
+2009,5,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6358,839,209.55,16.9,155.02,4.05,453.48,29,31,38426,8657,772,4957,104,23936
+2009,6,9E,Pinnacle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",1,1,0,0,0,0,1,0,0,37,0,0,0,0,37
+2009,6,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",150,30,9.5,0.1,8.85,0,11.54,2,1,2129,814,8,541,0,766
+2009,6,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",148,35,10.28,0.55,3.81,0,20.37,0,1,2027,393,42,169,0,1423
+2009,6,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",437,108,27.09,0,22.91,0,58,2,3,5766,1287,0,1016,0,3463
+2009,6,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",219,30,13.51,0.81,8.11,0,7.57,2,0,1108,541,72,241,0,254
+2009,6,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6293,1100,230.55,71.34,184.53,5.74,607.85,6,30,63326,11966,6071,9513,134,35642
+2009,7,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",151,22,8.23,0.55,5.04,0,8.18,3,0,1043,427,27,136,0,453
+2009,7,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",151,34,9.64,0,7.29,0,17.08,1,0,1424,406,0,302,0,716
+2009,7,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",452,138,25.34,0,28.85,0,83.82,4,0,8174,1130,0,1192,0,5852
+2009,7,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",233,27,11.35,0,7.68,0,7.97,0,0,864,307,0,277,0,280
+2009,7,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6567,1010,266.46,36.37,143.34,3.4,560.43,5,4,46384,11581,1766,5946,69,27022
+2009,8,9E,Pinnacle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",29,5,1.66,0,3.34,0,0,0,0,248,160,0,88,0,0
+2009,8,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",148,30,11.89,0.79,12.12,0,5.2,3,1,1095,629,15,337,0,114
+2009,8,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",1,1,0,0,0.56,0,0.44,0,0,39,0,0,22,0,17
+2009,8,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",150,22,6.84,0.83,5.94,0,8.4,1,0,879,166,61,210,0,442
+2009,8,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",406,102,19.75,0.41,29.3,0,52.54,1,2,5552,882,26,1311,0,3333
+2009,8,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",201,30,7.1,0.73,13.9,0,8.28,10,0,1283,214,69,482,0,518
+2009,8,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6423,1094,262.46,67.91,234.07,2.64,526.93,11,15,62836,13364,5097,12265,249,31861
+2009,9,9E,Pinnacle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",90,16,7.36,0.91,5.96,0,1.77,0,0,675,325,132,164,0,54
+2009,9,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",115,21,6.98,0.67,9.8,0,3.55,1,0,1145,381,20,297,0,447
+2009,9,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",47,12,3.82,0,2.63,0,5.55,0,0,484,172,0,116,0,196
+2009,9,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",128,13,5.02,0,1.6,0,6.38,1,1,716,433,0,42,0,241
+2009,9,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",315,47,8.4,0,11.09,0,27.51,0,1,2201,261,0,409,0,1531
+2009,9,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",198,14,3.57,1,6.6,0,2.82,0,1,674,101,53,319,0,201
+2009,9,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",72,16,7.45,1,6.97,0,0.58,0,0,629,404,28,182,0,15
+2009,9,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6091,639,153.14,25.65,122.04,2.67,335.5,19,15,25896,6067,1242,3884,127,14576
+2009,10,9E,Pinnacle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",36,5,3.45,0,1.55,0,0,1,0,148,110,0,38,0,0
+2009,10,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",119,13,2.38,0.05,2.62,0,7.94,1,0,614,117,5,117,0,375
+2009,10,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",31,12,3.08,0.31,4.71,0,3.89,0,1,517,61,34,242,0,180
+2009,10,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",124,23,7.31,0.32,6,0,9.38,4,0,1150,341,12,228,0,569
+2009,10,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",313,60,16,0,12.01,0,31.99,0,1,2673,642,0,359,0,1672
+2009,10,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",145,29,7.86,0,11.37,0,9.78,11,0,1149,322,0,318,0,509
+2009,10,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",136,49,17.45,0.44,29.48,0,1.63,3,0,2447,1498,22,864,0,63
+2009,10,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6327,1046,260.3,8.95,201.59,4.18,570.98,19,6,46638,10578,476,5649,98,29837
+2009,11,9E,Pinnacle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",90,7,3.42,0,2.58,0,1,1,0,183,87,0,41,0,55
+2009,11,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",114,12,4.89,0.11,1.67,0,5.32,2,1,704,339,7,81,0,277
+2009,11,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",31,8,2.02,0.06,0.96,0,4.97,0,0,453,227,3,43,0,180
+2009,11,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",119,11,1.46,0,5.47,0,4.07,1,0,400,55,0,152,0,193
+2009,11,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",330,72,14.04,0,13,0,44.96,0,0,3001,651,0,336,0,2014
+2009,11,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",133,2,0,0,0.27,0,1.73,1,0,60,0,0,7,0,53
+2009,11,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",76,6,2.5,0,3.5,0,0,3,0,306,169,0,137,0,0
+2009,11,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6075,454,164.57,1.12,76.04,0.35,211.92,23,2,19138,6838,36,2535,8,9721
+2009,12,9E,Pinnacle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",94,28,11.07,1,13.73,0,2.21,4,0,1134,443,35,592,0,64
+2009,12,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",118,19,3.6,0,3.74,0,11.66,6,4,890,247,0,134,0,509
+2009,12,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",16,7,2.03,0,1.04,0,3.93,0,0,590,198,0,80,0,312
+2009,12,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",120,38,4.95,0.6,15.14,0,17.31,1,0,1758,187,97,621,0,853
+2009,12,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",407,100,19.5,0,19.19,0,61.31,5,2,4553,667,0,628,0,3258
+2009,12,NW,Northwest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",92,19,7.37,1,6.07,0,4.55,4,2,724,282,33,241,0,168
+2009,12,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",80,27,8.24,1.88,13.88,0,3,4,0,1295,477,108,633,0,77
+2009,12,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6246,1688,408.96,111.36,447.06,11.53,709.09,122,74,88559,18498,9282,20716,345,39718
+2010,1,9E,Pinnacle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",71,19,7.4,0,8.4,0,3.2,3,0,828,425,0,296,0,107
+2010,1,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",193,23,9.06,1.71,9.65,0,2.59,11,0,970,323,284,294,0,69
+2010,1,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",32,8,4.02,0,0.6,0,3.38,0,0,474,274,0,46,0,154
+2010,1,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",118,16,5.68,0,4.13,0,6.19,1,1,781,302,0,161,0,318
+2010,1,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",403,75,18.74,0,15.9,0,40.36,5,0,3169,796,0,432,0,1941
+2010,1,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",101,26,7.22,1,17.78,0,0,13,0,1178,474,24,680,0,0
+2010,1,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",5790,1109,295.5,50.84,293.27,7.75,461.65,140,15,49508,12726,2445,10582,193,23562
+2010,2,9E,Pinnacle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",98,27,13.11,0,9.33,1,3.56,6,0,1523,803,0,401,34,285
+2010,2,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",107,19,5.73,1.54,7.66,0,4.07,17,0,797,252,146,209,0,190
+2010,2,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",49,9,4,1.43,0.31,0,3.26,2,0,425,149,118,37,0,121
+2010,2,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",107,22,4.81,0.4,10.47,0,6.31,3,1,604,139,25,267,0,173
+2010,2,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",382,60,14.95,1.19,9.88,0,33.98,10,1,3533,696,235,493,0,2109
+2010,2,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",66,21,6.18,2.62,12.2,0,0,7,0,1279,398,316,565,0,0
+2010,2,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",5178,723,191.77,23.56,150.94,5.84,350.91,351,30,35080,8691,1321,5448,165,19455
+2010,3,9E,Pinnacle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",139,25,14.69,2.95,5.36,0,2,2,1,1661,1175,155,251,0,80
+2010,3,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",89,12,4.94,0.03,2.85,0,4.18,3,1,738,455,2,102,0,179
+2010,3,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",66,19,8.72,0,0,0,10.28,1,0,1064,505,0,0,0,559
+2010,3,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",115,25,7.22,0.07,5.36,0,12.34,4,0,1287,279,7,241,0,760
+2010,3,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",441,69,22.77,0.97,9.73,0,35.54,7,4,4943,1662,29,372,0,2880
+2010,3,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",54,3,1,0,1,0,1,1,0,101,42,0,27,0,32
+2010,3,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6214,1056,309.79,39.16,149.42,7.02,550.61,52,31,49661,12920,3111,4840,171,28619
+2010,4,9E,Pinnacle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",140,25,10.91,0,11.14,0,2.96,0,1,1164,559,0,448,0,157
+2010,4,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",89,6,2.47,0,0.3,0,3.23,4,0,387,127,0,32,0,228
+2010,4,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",32,6,2.6,0,0,0,3.4,0,0,384,70,0,0,0,314
+2010,4,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",116,17,8.31,0.83,4.45,0,3.41,0,1,460,201,29,116,0,114
+2010,4,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",424,51,20.56,0,7.8,0,22.64,4,2,2796,972,0,234,0,1590
+2010,4,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",30,5,1.77,0.59,2.64,0,0,0,0,172,75,35,62,0,0
+2010,4,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6290,815,266.43,23.96,130.58,2.22,391.82,18,11,34156,9980,1656,4482,82,17956
+2010,5,9E,Pinnacle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",193,47,16.42,3,21.34,0,6.25,7,2,2969,1194,342,897,0,536
+2010,5,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",93,29,7.3,0,10.09,0,11.62,5,0,1790,519,0,540,0,731
+2010,5,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",25,8,1.28,0.57,1.89,0,4.26,0,0,668,60,47,110,0,451
+2010,5,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",130,15,3.96,0.27,4.24,0,6.53,0,2,856,118,12,119,0,607
+2010,5,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",410,60,16.09,0,19.77,0,24.14,2,1,3943,983,0,916,0,2044
+2010,5,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",1,1,0,0,1,0,0,0,0,55,0,0,55,0,0
+2010,5,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6534,1105,258.92,51.55,228.3,8.92,557.32,10,17,54746,12158,4291,8872,209,29216
+2010,6,9E,Pinnacle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",157,37,13.04,2.56,16.39,1,4,7,1,2187,880,403,700,67,137
+2010,6,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",142,56,20.07,1.75,14.4,0,19.78,7,0,4166,1259,159,1239,0,1509
+2010,6,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",10,3,1,0.89,1.11,0,0,0,0,146,16,81,49,0,0
+2010,6,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",138,25,5.91,0.41,9.81,0,8.87,0,2,2021,383,24,602,0,1012
+2010,6,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",401,84,14.18,1.27,37.83,0,30.72,1,4,4372,583,198,1602,0,1989
+2010,6,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",33,14,5.1,0.33,8.57,0,0,0,0,896,439,10,447,0,0
+2010,6,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6488,1537,317.08,179.91,359.85,4,676.16,6,42,100356,15561,18937,22761,79,43018
+2010,7,9E,Pinnacle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",143,31,17.16,2.89,6.95,0,4,6,0,1795,1264,155,215,0,161
+2010,7,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",165,55,22.01,0.47,9.47,0,23.05,9,1,3221,1176,34,433,0,1578
+2010,7,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,7,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",145,22,7.27,0,5.35,0,9.38,0,2,1003,230,0,288,0,485
+2010,7,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",405,68,11.74,0,18.53,0,37.73,1,3,3763,676,0,720,0,2367
+2010,7,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",49,12,6.49,0.9,3.61,0,1,1,0,876,571,145,128,0,32
+2010,7,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6597,1319,354.74,60.75,220.89,5.52,677.09,2,26,69304,16065,4747,10655,267,37570
+2010,8,9E,Pinnacle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",140,29,15.37,1,6.63,0,6,5,0,1465,1031,28,203,0,203
+2010,8,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",177,57,18.75,1.36,16.66,0,20.23,3,0,2930,986,108,800,0,1036
+2010,8,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,8,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",151,17,3.82,0,4.58,0,8.6,0,0,485,117,0,98,0,270
+2010,8,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",367,82,14.13,0,21.95,0,45.92,3,1,4013,667,0,865,0,2481
+2010,8,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",41,11,6.7,1.98,2.32,0,0,0,0,598,376,77,145,0,0
+2010,8,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6494,999,237.48,61.57,179.31,4.52,516.11,7,5,48681,10373,4749,7803,113,25643
+2010,9,9E,Pinnacle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",126,23,9.94,0.83,9.26,0,2.97,1,0,933,399,96,291,0,147
+2010,9,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",177,44,18.56,0.38,11.39,0,13.67,1,0,1815,775,31,313,0,696
+2010,9,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",133,10,6.22,0.75,1.97,0,1.06,0,0,391,301,12,50,0,28
+2010,9,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",326,27,6.38,0,6.9,0,13.72,0,1,1392,390,0,209,0,793
+2010,9,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",62,10,5.33,0.96,3.7,0,0,1,1,464,275,80,109,0,0
+2010,9,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6089,703,166.47,16.05,180.42,0.92,339.14,18,0,28307,6210,857,5288,35,15917
+2010,9,XE,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",16,4,0.47,0.16,3.37,0,0,0,0,195,14,5,176,0,0
+2010,10,9E,Pinnacle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",154,21,8.52,0,6.63,0,5.86,3,0,972,415,0,244,0,313
+2010,10,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",182,50,19.42,0.2,17.9,0,12.48,3,0,2011,794,8,524,0,685
+2010,10,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",115,15,4,0.59,4,0,6.42,0,0,449,95,17,98,0,239
+2010,10,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",365,30,5.93,0,8.49,0,15.58,5,1,1649,148,0,190,0,1311
+2010,10,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",43,14,4.43,1.29,8.29,0,0,2,0,834,431,110,293,0,0
+2010,10,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6301,1226,356.91,15.91,221.87,10.85,620.45,20,18,48836,13436,677,6507,284,27932
+2010,10,XE,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",16,5,0.95,0,1.85,0,2.2,1,0,190,94,0,43,0,53
+2010,11,9E,Pinnacle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",165,27,13.98,0,8.63,0,4.39,3,1,1169,573,0,246,0,350
+2010,11,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",203,53,16.15,0.2,16.37,0,20.28,2,1,2788,889,19,425,0,1455
+2010,11,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,11,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",105,22,2.96,0,7.81,0,11.22,0,1,730,131,0,266,0,333
+2010,11,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",359,36,8.06,0,10.15,0,17.78,1,0,1679,332,0,360,0,987
+2010,11,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",24,10,3.14,1.91,3.61,0.33,1,3,0,707,335,135,199,5,33
+2010,11,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6062,941,280.67,24.93,184.59,5.12,445.68,21,28,39328,12166,1449,6623,108,18982
+2010,12,9E,Pinnacle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",171,61,23.17,4.82,23.47,0,9.54,14,1,3235,1225,638,946,0,426
+2010,12,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",210,86,31.11,3.61,27.95,0,23.33,8,1,4594,1535,391,1175,0,1493
+2010,12,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",113,16,5.66,1.51,6.34,0,2.49,2,0,613,164,126,222,0,101
+2010,12,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",379,63,16.07,0.81,26,0,20.12,4,2,2832,512,57,1090,0,1173
+2010,12,OH,Comair Inc.,MDW,"Chicago, IL: Chicago Midway International",15,5,1.76,0,2.24,0,1,3,0,287,175,0,80,0,32
+2010,12,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6214,1648,476.55,67.95,267.8,16.6,819.11,339,61,75930,20420,4774,9149,395,41192
+2011,1,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",211,27,8.12,0.7,8.85,0,9.32,24,0,1073,324,21,250,0,478
+2011,1,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",107,18,2.38,0.5,9.41,0,5.7,0,0,885,104,23,406,0,352
+2011,1,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",372,41,9.7,1,6.23,0,24.07,16,0,2476,730,60,159,0,1527
+2011,1,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",5844,1360,362.51,41.71,279.01,16.11,660.67,95,5,59558,14967,1727,9261,391,33212
+2011,2,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",187,41,17,0.99,10.31,0,12.7,18,0,1779,735,69,414,0,561
+2011,2,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",96,16,2.91,1.59,6.22,0,5.28,8,0,526,103,59,162,0,202
+2011,2,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",349,51,9.42,0,13.95,0,27.64,18,3,2082,265,0,318,0,1499
+2011,2,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",5290,943,225.88,23.04,225.96,8.75,459.38,395,15,42983,9846,1317,7215,288,24317
+2011,3,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",213,41,16.35,0.69,10.99,0,12.97,4,0,1605,669,123,321,0,492
+2011,3,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",113,14,3.7,0,8.06,0,2.24,1,0,447,101,0,218,0,128
+2011,3,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",442,60,12.85,0,12.68,0,34.47,3,0,4037,685,0,395,0,2957
+2011,3,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6556,1017,257.49,15.62,182.58,6.29,555.01,21,12,51893,12364,1031,5905,169,32424
+2011,4,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",206,48,17.47,0,10.29,0,20.25,3,3,2589,785,0,531,0,1273
+2011,4,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",109,12,5.06,0,4.79,0,2.14,0,0,353,111,0,106,0,136
+2011,4,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",406,71,13.82,0.94,19.92,0,36.31,3,5,3194,634,84,592,0,1884
+2011,4,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6733,1438,355.09,44.32,243.93,7.04,787.61,96,67,84403,20139,4218,10777,282,48987
+2011,5,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",213,50,19.04,1.31,8.84,0,20.81,1,3,3434,1085,303,556,0,1490
+2011,5,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",126,29,8.22,0,13.52,0,7.26,0,0,1824,502,0,809,0,513
+2011,5,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",394,59,13.83,0,16.48,0,28.68,0,4,4082,524,0,1110,0,2448
+2011,5,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6893,1470,333.53,94.7,282.37,6.51,752.89,32,40,93441,16228,12163,16841,202,48007
+2011,6,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",209,54,24.38,1.77,18,0,9.86,6,1,3807,1675,226,1291,0,615
+2011,6,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",138,33,9.53,0.64,10.2,0,12.63,0,0,1660,557,36,509,0,558
+2011,6,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",397,82,19.4,0,26.94,0,35.66,5,2,4677,972,0,1723,0,1982
+2011,6,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",7041,1285,292.05,104.96,298.96,5.44,583.58,37,54,79519,14772,11927,16861,126,35833
+2011,7,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",217,55,27.36,0.65,11.12,0,15.86,6,0,3133,1411,36,466,0,1220
+2011,7,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",139,25,9.02,0.48,7.21,0,8.3,7,0,1186,370,10,333,0,473
+2011,7,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",399,63,9.76,0,18.16,0,35.08,1,0,3462,327,0,957,0,2178
+2011,7,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",7187,990,214.6,58.68,194.57,2.02,520.13,12,17,54488,10789,3745,7807,57,32090
+2011,8,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",215,38,16.57,0.87,12.56,0,8,4,0,1768,686,54,499,0,529
+2011,8,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",132,16,5.44,0.11,5.25,0,5.19,0,1,579,118,7,210,0,244
+2011,8,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",389,58,13.09,0,21.86,0,23.05,1,1,3037,1076,0,650,0,1311
+2011,8,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6952,1061,227.27,45.66,245.47,4.79,537.81,91,20,57534,11161,3267,10877,176,32053
+2011,9,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",202,27,7.75,1.81,9.79,0,7.65,0,1,1004,378,55,319,0,252
+2011,9,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",103,13,4.23,0.17,8.07,0,0.53,0,1,563,325,3,204,0,31
+2011,9,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",332,18,2.82,0,5.2,0,9.98,0,1,731,52,0,168,0,511
+2011,9,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6375,987,206.45,53.85,247.87,5.02,473.81,32,22,51465,10114,5099,9312,144,26796
+2011,10,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",205,24,14.18,0,5.86,0,3.96,0,0,699,435,0,113,0,151
+2011,10,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",101,9,2.86,0,4.63,0,1.51,0,0,377,104,0,147,0,126
+2011,10,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",295,21,8.58,0,8.13,0,4.3,0,1,529,265,0,154,0,110
+2011,10,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6799,715,204.98,3.72,100.47,6.68,399.15,25,11,33679,9845,245,2923,192,20474
+2011,11,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",197,34,10.87,0,11.13,0,12.01,0,0,1199,401,0,309,0,489
+2011,11,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",100,5,3.03,0,0.97,0,1,1,0,196,155,0,23,0,18
+2011,11,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",338,24,9.72,0,5.82,0,8.46,2,1,889,496,0,146,0,247
+2011,11,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6328,551,140.55,6.36,99.81,7.36,296.93,12,2,25270,6831,233,2709,194,15303
+2011,12,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",204,17,6.51,0,3.16,0,7.33,0,0,541,208,0,77,0,256
+2011,12,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",108,28,11.03,0.71,12.71,0,3.55,0,0,1610,520,118,716,0,256
+2011,12,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",373,19,5.73,0,5.12,0,8.15,1,0,681,136,0,134,0,411
+2011,12,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6499,652,172.2,39.52,124.35,10.01,305.92,25,2,30170,7974,2566,3998,211,15421
+2012,1,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",216,29,12.86,1.45,8.32,0,6.37,9,1,1377,645,76,311,0,345
+2012,1,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",70,17,6.88,0,6.61,0,3.51,1,1,532,213,0,160,0,159
+2012,1,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",297,23,8.6,0,6.25,0,8.15,7,0,842,414,0,149,0,279
+2012,1,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",5945,613,161.77,68.17,138.09,4.17,240.8,128,25,37524,8241,10377,6207,94,12605
+2012,2,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",201,16,7.81,0,4.53,0,3.66,2,0,639,368,0,111,0,160
+2012,2,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",69,15,3.67,0,4.7,0,6.63,2,0,693,148,0,195,0,350
+2012,2,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",266,13,3.2,0,4.42,0,5.38,5,0,637,129,0,158,0,350
+2012,2,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",5710,481,133.17,23.23,119.18,2.09,203.33,117,2,20368,6076,1096,3143,43,10010
+2012,3,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",214,38,17.02,0,9.71,0,11.27,0,1,1794,939,0,311,0,544
+2012,3,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",81,9,5.04,0,1.4,0,2.56,0,0,593,346,0,34,0,213
+2012,3,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",344,29,10.12,0,8.46,0,10.42,1,0,1390,554,0,429,0,407
+2012,3,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6866,942,227.89,23.97,245.62,8.56,435.96,13,3,39552,9739,1203,6853,186,21571
+2012,4,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",207,19,9.66,0,5.38,0,3.95,0,0,837,379,0,127,0,331
+2012,4,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",7,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,4,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",100,14,4.97,0,5.13,0,3.9,0,0,553,197,0,128,0,228
+2012,4,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",298,17,5.96,0,9.04,0,2,0,1,972,727,0,201,0,44
+2012,4,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6817,733,236.29,15.76,131.84,7.57,341.54,26,3,33054,11878,651,3254,255,17016
+2012,5,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",207,30,12.12,0.78,9.55,0,7.54,0,1,1350,608,29,349,0,364
+2012,5,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,5,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",122,15,7.65,0,4.28,0,3.07,0,0,377,199,0,102,0,76
+2012,5,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",281,23,5,0,4.48,0,13.52,0,1,1442,334,0,201,0,907
+2012,5,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6980,1031,276.29,22.22,184.74,4.6,543.15,34,18,48820,12652,1847,5792,103,28426
+2012,6,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",187,23,11.64,0,3.74,0,7.62,1,2,1170,480,0,130,0,560
+2012,6,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",133,28,8.16,0.87,11.9,0,7.06,0,1,1396,336,72,458,0,530
+2012,6,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",342,39,12.21,0,13.72,0,13.07,1,2,1790,758,0,488,0,544
+2012,6,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",7012,1279,348.82,25.92,224.66,12,667.61,30,33,61128,17888,1647,7376,300,33917
+2012,7,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",181,36,13.83,0.29,3.67,0,18.2,0,1,2417,791,34,249,0,1343
+2012,7,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",135,20,8.76,0.24,7.21,0,3.79,0,0,657,263,9,243,0,142
+2012,7,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",381,81,26.55,0.98,21.04,0,32.43,6,0,4428,1495,63,867,0,2003
+2012,7,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",7279,1596,340.52,41.27,399.48,6.59,808.14,31,30,84824,16900,2930,14697,207,50090
+2012,8,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",188,34,17.14,1,9.29,0,6.57,0,0,1896,1114,30,360,0,392
+2012,8,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",140,16,6.8,0,2.97,0,6.23,0,0,689,282,0,150,0,257
+2012,8,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",330,55,22.71,0,18.28,0,14.01,4,0,2144,1064,0,558,0,522
+2012,8,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6991,1193,294.27,42.76,269.6,5.72,580.65,31,29,62418,14010,3839,11783,175,32611
+2012,9,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",166,16,9.19,0,1.43,0,5.38,0,0,814,469,0,44,0,301
+2012,9,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",1,1,1,0,0,0,0,0,0,129,129,0,0,0,0
+2012,9,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",110,11,0.85,0.11,4.18,0,5.85,0,0,936,37,5,131,0,763
+2012,9,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",290,26,8.04,0,8.83,0,9.13,1,1,880,233,0,215,0,432
+2012,9,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6409,620,183.8,15.45,123.52,1.97,295.26,13,2,29075,8884,811,3865,47,15468
+2012,10,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",172,29,12.49,0,8.19,0,8.32,0,0,1050,441,0,273,0,336
+2012,10,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",104,21,4.78,0,7.75,0,8.47,0,1,1252,191,0,234,0,827
+2012,10,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",333,45,11.59,0,13.6,0,19.81,1,0,1835,388,0,492,0,955
+2012,10,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",21,4,0.56,0,3.44,0,0,0,0,76,11,0,65,0,0
+2012,10,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6832,979,248.12,40.38,268.32,5.11,417.07,119,43,46472,12024,2699,9980,128,21641
+2012,11,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",165,13,6.53,1.23,3.23,0,2.01,0,0,739,244,36,227,0,232
+2012,11,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",4,1,0.96,0,0.04,0,0,0,0,79,76,0,3,0,0
+2012,11,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",96,16,9.06,0.17,4.05,0,2.73,0,0,498,211,14,153,0,120
+2012,11,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",363,38,13.81,0,16.26,0,7.92,1,0,1549,470,0,780,0,299
+2012,11,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",9,1,0,0,0,0,1,0,0,16,0,0,0,0,16
+2012,11,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6132,791,211.24,39.47,162.3,5.71,372.28,32,16,47862,9553,6377,7726,130,24076
+2012,12,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",168,20,9.03,0,2.7,0,8.27,1,0,1051,471,0,109,0,471
+2012,12,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",4,2,1.83,0,0.17,0,0,0,0,178,172,0,6,0,0
+2012,12,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",96,19,9.95,0,5,0,4.05,2,0,1120,562,0,166,0,392
+2012,12,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",372,58,14.93,0,23.79,0,19.28,8,1,2601,808,0,749,0,1044
+2012,12,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",10,2,0.19,0,1,0,0.81,1,0,67,7,0,30,0,30
+2012,12,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6282,1255,321.7,37.45,285.54,12.84,597.47,126,10,57540,13743,1651,9574,405,32167
+2013,1,9E,Pinnacle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",190,30,12.54,2,10.53,0,4.93,6,1,1415,725,67,389,0,234
+2013,1,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",181,17,8.75,0.47,4.49,0,3.28,1,0,776,428,15,116,0,217
+2013,1,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",1,1,0.59,0,0.41,0,0,0,0,39,23,0,16,0,0
+2013,1,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",74,20,8.79,0,5.35,0,5.87,0,0,1210,596,0,182,0,432
+2013,1,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",283,20,9.04,0,5.52,0,5.44,2,0,794,361,0,153,0,280
+2013,1,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",4,1,0,0,1,0,0,0,0,16,0,0,16,0,0
+2013,1,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",5792,914,211.23,25.47,342.18,11.19,323.93,23,6,35295,8784,1156,10264,276,14815
+2013,2,9E,Pinnacle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",174,29,10.23,0,14.01,0,4.76,3,2,1403,696,0,410,0,297
+2013,2,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",165,18,11.15,0.88,2.73,0,3.24,4,0,679,455,74,60,0,90
+2013,2,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",67,19,6.11,1.88,7.53,0,3.47,1,0,1025,356,77,285,0,307
+2013,2,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",273,28,6.48,0,11.07,0,10.45,7,2,914,209,0,221,0,484
+2013,2,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,2,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",5377,736,194.91,34.11,213.1,3.67,290.21,171,30,28953,7745,1577,6288,80,13263
+2013,3,9E,Pinnacle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",201,32,6.38,0,24.31,0,1.31,6,0,1603,351,0,1153,0,99
+2013,3,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",186,22,11.7,1.07,1.2,0,8.03,5,0,1406,588,100,50,0,668
+2013,3,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",71,17,7.42,0,5.35,0,4.23,0,1,1271,632,0,238,0,401
+2013,3,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",326,67,13.08,2,15.34,0,36.58,8,0,4387,693,462,445,0,2787
+2013,3,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6743,1250,297.56,61.12,282.95,5.2,603.18,165,5,59659,11779,8634,10125,122,28999
+2013,4,9E,Pinnacle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",196,24,10.89,1.46,7.87,0,3.77,11,1,1051,445,117,264,0,225
+2013,4,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",174,28,9.7,2.03,7.18,0,9.1,0,2,1901,510,280,758,0,353
+2013,4,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",2,2,1.64,0,0.36,0,0,0,0,100,71,0,29,0,0
+2013,4,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",92,26,2.79,0.88,16.23,0,6.1,0,0,1688,138,93,811,0,646
+2013,4,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",319,56,9.44,0,17.97,0,28.59,3,2,3364,310,0,892,0,2162
+2013,4,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6810,1332,302.19,80.68,311.13,5.07,632.94,40,33,74894,14240,10073,15468,290,34823
+2013,5,9E,Pinnacle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",234,38,14.81,1.44,14.47,0,7.29,3,0,1815,715,153,558,0,389
+2013,5,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",175,23,12.84,0,6.02,0,4.14,0,1,1045,611,0,239,0,195
+2013,5,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,5,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",114,23,4.66,0.02,12.64,0,5.68,0,0,1340,278,1,693,0,368
+2013,5,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",329,36,11.57,1.25,5.01,0,18.17,2,1,1810,411,48,262,0,1089
+2013,5,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",1,1,0,0,1,0,0,0,0,20,0,0,20,0,0
+2013,5,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6994,1446,345.17,65.48,357.78,7.18,670.39,28,59,72339,14947,5840,13760,257,37535
+2013,6,9E,Pinnacle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",187,45,20.47,0,11.93,0,12.61,6,1,3301,1520,0,729,0,1052
+2013,6,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",187,51,16.68,4.14,18.55,0,11.63,0,1,3610,974,513,1347,0,776
+2013,6,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",1,1,1,0,0,0,0,0,0,30,30,0,0,0,0
+2013,6,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",115,26,5.83,3.53,9.16,0,7.48,2,0,1445,286,172,315,0,672
+2013,6,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",384,112,28.09,3.8,20.86,0,59.25,6,5,7740,1193,362,1056,0,5129
+2013,6,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",19,6,1.18,0,4.72,0,0.1,0,0,386,43,0,336,0,7
+2013,6,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",7198,1983,408.28,105.06,608.33,9.4,851.94,50,97,113177,22491,10263,27118,226,53079
+2013,7,9E,Pinnacle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",171,36,12.91,3.87,11.95,1,6.27,7,0,1840,749,296,430,65,300
+2013,7,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",196,45,17.07,1.23,10.46,0,16.23,1,1,3065,1247,70,514,0,1234
+2013,7,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",3,1,0.9,0,0.1,0,0,0,0,187,169,0,18,0,0
+2013,7,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",135,20,2.22,0,10.99,0,6.79,3,1,1083,75,0,562,0,446
+2013,7,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",403,107,29.1,3.71,11.91,0,62.29,8,0,6528,1374,371,549,0,4234
+2013,7,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",24,3,2.04,0,0.96,0,0,0,0,87,63,0,24,0,0
+2013,7,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",7427,1680,356.39,54.49,527.63,7.96,733.54,21,16,78685,15668,4268,17800,235,40714
+2013,8,9E,Endeavor Air Inc.,MDW,"Chicago, IL: Chicago Midway International",179,31,14.89,0.56,11.52,0,4.03,5,0,1723,1034,49,486,0,154
+2013,8,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",198,23,7.83,1.67,7.57,0,5.93,0,1,1259,483,124,446,0,206
+2013,8,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",7,4,2,0,0,0,2,0,0,103,59,0,0,0,44
+2013,8,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",135,25,9.42,1.37,8.9,0,5.31,0,0,1256,321,111,517,0,307
+2013,8,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",449,77,22.68,0,22.81,0,31.51,1,5,4018,1142,0,967,0,1909
+2013,8,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",17,2,1,0,0.26,0,0.74,1,0,104,85,0,5,0,14
+2013,8,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",7097,1743,397.82,51.41,517.87,7.61,768.29,10,47,81223,16348,6040,19033,227,39575
+2013,9,9E,Endeavor Air Inc.,MDW,"Chicago, IL: Chicago Midway International",172,14,6.1,0,6.68,0,1.22,1,0,769,266,0,346,0,157
+2013,9,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",194,26,11.31,0,11.3,0,3.39,0,0,889,513,0,282,0,94
+2013,9,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",3,1,0,0,0,0,1,0,0,228,0,0,0,0,228
+2013,9,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",121,21,7.76,0.01,6.45,0,6.79,0,0,1296,419,1,316,0,560
+2013,9,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",399,49,17.45,1.04,14.53,0,15.98,0,0,2061,538,61,481,0,981
+2013,9,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",21,2,2,0,0,0,0,0,0,55,55,0,0,0,0
+2013,9,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6536,1264,339.72,54.57,328.46,6.36,534.89,13,16,61561,14716,5359,14568,149,26769
+2013,10,9E,Endeavor Air Inc.,MDW,"Chicago, IL: Chicago Midway International",181,22,10.17,0,9.75,0,2.08,0,1,768,445,0,264,0,59
+2013,10,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",202,10,4.49,0,4.78,0,0.72,0,0,537,364,0,146,0,27
+2013,10,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,10,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",117,19,4.86,0.13,9.91,0,4.1,0,0,910,315,8,429,0,158
+2013,10,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",394,53,28.2,0,13.38,0,11.42,0,1,1891,1055,0,318,0,518
+2013,10,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",32,2,0,0,1.11,0,0.89,0,1,91,0,0,25,0,66
+2013,10,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6804,1308,353.92,14.44,393.48,3.58,542.58,5,14,46620,12215,667,10875,69,22794
+2013,11,9E,Endeavor Air Inc.,MDW,"Chicago, IL: Chicago Midway International",164,18,4.43,1.74,9.99,0,1.84,2,0,784,117,258,323,0,86
+2013,11,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",186,37,23.43,1.05,6.66,0,5.86,0,0,1840,1083,141,414,0,202
+2013,11,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,11,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",115,21,3.51,0.93,9.59,0,6.97,0,0,1244,174,128,545,0,397
+2013,11,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",267,26,9.69,0.85,10.73,0,4.74,1,0,1017,311,94,376,0,236
+2013,11,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",9,2,1.05,0,0.62,0,0.33,0,0,75,18,0,37,0,20
+2013,11,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6160,1276,345.48,33.61,358.73,4.87,533.32,9,21,54127,12596,3553,13389,106,24483
+2013,12,9E,Endeavor Air Inc.,MDW,"Chicago, IL: Chicago Midway International",176,54,13.37,1.43,32.8,0,6.4,1,0,2547,820,75,1242,0,410
+2013,12,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",178,28,10.15,0.04,7.71,0,10.1,0,0,1244,503,9,247,0,485
+2013,12,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",129,45,9.77,0.3,23.85,0,11.08,0,0,3073,478,24,1727,0,844
+2013,12,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",278,73,22.88,0,17.32,0,32.79,2,1,3300,927,0,641,0,1732
+2013,12,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,12,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6490,2694,654.1,72.73,730.92,13.39,1222.87,57,10,124491,28467,5836,27371,316,62501
+2014,1,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",193,51,18.17,1.91,12.55,0,18.38,15,0,3335,1021,239,483,0,1592
+2014,1,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",91,31,15.7,0.08,10.53,0,4.69,13,0,1813,1118,3,490,0,202
+2014,1,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",91,40,6.03,0.42,23.85,0,9.69,2,1,3566,512,8,1611,0,1435
+2014,1,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",317,85,34.57,0,18.45,0,31.98,30,5,3801,1204,0,747,0,1850
+2014,1,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",22,7,2.75,0,3.37,0,0.88,0,0,374,129,0,163,0,82
+2014,1,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",5863,1656,401.95,132.18,520.85,8.41,592.61,898,197,122129,23929,16413,38841,269,42677
+2014,2,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",183,23,7.44,1.84,9.66,0,4.06,12,3,881,250,207,226,0,198
+2014,2,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",100,28,13.6,0.04,4.38,0,9.97,7,0,2225,1138,1,248,0,838
+2014,2,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",81,33,5.19,0,14.63,0,13.18,2,1,2597,336,0,1116,0,1145
+2014,2,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",309,54,14.09,0,19.31,0,20.61,23,3,2125,520,0,704,0,901
+2014,2,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",19,2,1,0.21,0,0,0.79,2,0,88,64,5,0,0,19
+2014,2,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",5367,1248,322.44,47.02,327.37,0.79,550.38,398,28,60879,14662,4112,12076,26,30003
+2014,3,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",213,35,21.13,2,3.69,0,8.18,0,0,1637,1116,82,121,0,318
+2014,3,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",138,28,7.29,0.01,3.12,0,17.58,6,0,1739,454,1,109,0,1175
+2014,3,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",87,21,2.33,0,12.44,0,6.23,2,0,1083,125,0,488,0,470
+2014,3,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",336,69,23.47,0,12.01,0,33.52,2,2,3071,764,0,353,0,1954
+2014,3,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,3,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6640,1477,405.02,16.04,308.55,3.34,744.06,103,10,61628,16397,1128,9332,83,34688
+2014,4,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",207,20,10.24,1,4.91,0,3.85,0,0,714,430,42,120,0,122
+2014,4,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",113,19,9.89,0.52,5.29,0,3.3,2,0,1456,549,21,427,0,459
+2014,4,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",93,22,6.63,0,10.53,0,4.84,0,0,1363,375,0,639,0,349
+2014,4,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",247,36,13.15,0,6.39,0,16.46,0,1,1651,655,0,218,0,778
+2014,4,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6776,1510,426.52,49.14,272.95,2.77,758.62,25,20,68453,18823,3235,9237,76,37082
+2014,5,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",208,36,14.8,1,12.91,0,7.29,0,1,2014,599,35,1081,0,299
+2014,5,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",135,19,8.32,0,3.04,1,6.64,10,0,1127,580,0,210,88,249
+2014,5,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",123,36,5.94,0,19.65,0,10.41,1,0,3070,330,0,1772,0,968
+2014,5,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",229,34,12,1.9,13.92,0,6.18,1,4,1315,341,153,479,0,342
+2014,5,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,5,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6956,1780,514.48,76.02,341.07,2.79,845.64,97,93,101721,24176,8822,18313,88,50322
+2014,6,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",202,34,12.13,2.17,17.08,0,2.61,0,2,2344,634,131,1350,0,229
+2014,6,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",103,27,11.37,0.87,9.28,0,5.48,3,0,1436,776,13,367,0,280
+2014,6,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",143,50,5.71,0.63,27.99,0,15.67,0,1,3593,405,191,1669,0,1328
+2014,6,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",276,49,12.71,2.69,15.55,0,18.06,0,4,2481,522,72,647,0,1240
+2014,6,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",7125,1910,451.29,125.16,405.35,1.13,927.07,66,103,123035,24335,15406,24650,83,58561
+2014,7,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",199,25,14.05,1,3.55,0,6.4,1,0,1605,1004,90,150,0,361
+2014,7,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",126,18,8.26,0,1.39,0,8.35,1,0,1466,760,0,127,0,579
+2014,7,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",165,49,7.24,0.8,27.92,0,13.04,0,0,3712,360,65,1565,0,1722
+2014,7,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",303,37,12.92,2.94,9.44,0,11.69,0,0,2164,758,412,302,0,692
+2014,7,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",7411,1599,431.15,46.45,263.17,4.92,853.32,60,14,85540,24500,4479,9169,102,47290
+2014,8,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",202,36,13.5,2.19,12.42,0,7.89,2,2,2083,721,213,578,0,571
+2014,8,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",107,28,11.21,0,9.09,0,7.7,0,1,1658,743,0,307,0,608
+2014,8,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",164,49,8.81,0.39,27.75,0,12.05,2,0,3554,507,31,1286,0,1730
+2014,8,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",332,72,27.65,2.17,18.18,0,23.99,1,2,4565,1575,127,852,0,2011
+2014,8,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",3,1,0,0,1,0,0,0,0,16,0,0,16,0,0
+2014,8,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",7026,1599,344.6,95.78,467.69,2.55,688.38,20,45,84196,17703,5648,20216,150,40479
+2014,9,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",201,61,13.34,0,42.48,0,5.18,6,1,2696,532,0,1949,0,215
+2014,9,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",110,21,10.83,0,4.47,0,5.7,5,0,1356,774,0,217,0,365
+2014,9,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",129,38,3.87,0,27.59,0,6.54,1,1,2927,198,0,1859,0,870
+2014,9,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",238,50,5.75,2.64,32.59,0,9.02,11,2,2841,219,343,1846,0,433
+2014,9,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",24,2,1,0,0.9,0,0.1,0,0,35,15,0,18,0,2
+2014,9,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6709,1307,231.76,59.95,590.99,1.1,423.21,311,49,80702,12709,6196,36273,17,25507
+2014,10,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",240,49,11.65,0.49,29.11,0,7.75,0,2,2489,903,26,1285,0,275
+2014,10,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",137,45,33.96,0,4.37,0,6.67,0,1,2548,2028,0,211,0,309
+2014,10,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",104,37,4.26,0,24.65,0,8.09,0,1,2060,188,0,1170,0,702
+2014,10,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",243,65,7.56,0,43.58,0,13.86,0,0,2759,245,0,1488,0,1026
+2014,10,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,10,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",7125,1742,296.49,41.53,840.73,0,563.26,169,3,80749,15509,1958,31737,0,31545
+2014,11,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",224,25,15.31,0,3.54,0,6.15,0,0,1309,813,0,141,0,355
+2014,11,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",174,35,11.57,0,13.44,0,10,4,0,1468,538,0,412,0,518
+2014,11,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",85,19,2.87,0.21,11.12,0,4.8,0,0,1090,112,24,487,0,467
+2014,11,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",168,21,9.97,0,4.45,0,6.58,0,0,957,317,0,117,0,523
+2014,11,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6364,902,264.68,4.1,171.13,2.37,459.72,38,6,42929,13834,435,4824,80,23756
+2014,12,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",218,19,9.07,0.02,5.86,0,4.05,0,1,1036,727,1,148,0,160
+2014,12,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",106,25,12.98,0,6.06,0,5.96,0,0,1741,1077,0,229,0,435
+2014,12,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",69,15,3.09,0,10.22,0,1.68,1,1,576,139,0,355,0,82
+2014,12,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway International",101,10,4.55,0,0.5,0,4.96,0,0,434,203,0,29,0,202
+2014,12,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6695,1172,346.14,15.96,178.73,3.94,627.24,41,10,54682,17185,789,4923,115,31670
+2015,1,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",219,33,10.57,4.53,10.21,0,7.69,1,0,1937,595,501,378,0,463
+2015,1,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",228,70,35.31,0,20.61,0,14.08,3,0,5078,3076,0,994,0,1008
+2015,1,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",20,4,1.01,0,2.01,0,0.98,0,0,275,24,0,172,0,79
+2015,1,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",4,2,0.05,0,1.35,0,0.6,0,0,76,3,0,37,0,36
+2015,1,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6275,1131,305.97,34.72,286.57,2.75,501,206,63,56062,15899,2751,10331,72,27009
+2015,2,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",210,42,17.13,3.57,11.39,0,9.9,7,1,2101,907,145,414,0,635
+2015,2,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",177,62,24.63,0,18.15,0,19.22,6,0,4409,2391,0,752,0,1266
+2015,2,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",12,4,2.5,0.92,0.58,0,0,0,0,251,102,129,20,0,0
+2015,2,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",13,7,0,0.13,5.81,0,1.06,1,0,201,0,4,151,0,46
+2015,2,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",5632,996,301.03,37.25,293.53,0.83,363.37,424,22,48099,14090,2847,10319,19,20824
+2015,3,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",240,30,17.07,2,4.23,0,6.7,0,1,2050,809,703,297,0,241
+2015,3,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",222,54,28.31,0,10.16,0,15.53,5,0,3493,2267,0,443,0,783
+2015,3,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",13,6,1.03,0,4.14,0,0.83,0,0,473,49,0,115,0,309
+2015,3,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",1,1,0.71,0,0,0,0.29,0,0,34,24,0,0,0,10
+2015,3,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6965,1149,356.96,47.11,249.73,1.05,494.15,270,59,60589,17580,4692,10550,30,27737
+2015,4,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",232,33,18.71,2.19,5.17,0,6.94,0,0,1993,1250,214,239,0,290
+2015,4,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",206,40,11.02,0,10.94,0,18.03,3,0,2236,929,0,364,0,943
+2015,4,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",6,1,0,0,1,0,0,0,1,34,0,0,34,0,0
+2015,4,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",7000,1027,272.4,57.32,263.06,0.08,434.15,62,42,55160,15863,4261,11102,2,23932
+2015,5,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",242,24,11.58,1.74,6.9,0,3.77,2,0,1387,746,145,320,0,176
+2015,5,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",186,37,16.76,0,7.98,0,12.26,0,1,2229,991,0,300,0,938
+2015,5,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",7163,1228,321.97,97.86,277,1.63,529.54,86,31,72547,17595,9916,11726,48,33262
+2015,6,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",253,46,20.22,4.06,11.73,0,9.99,0,4,3200,1391,360,578,0,871
+2015,6,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",116,31,12.99,0,8.65,0,9.36,1,0,2489,1259,0,508,0,722
+2015,6,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",42,4,0.6,0,2.17,0,1.23,0,0,296,76,0,84,0,136
+2015,6,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",7575,1787,442.57,163.24,480.55,3.71,696.94,215,76,103197,25551,13357,21017,147,43125
+2015,7,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",254,32,9.41,2.15,17.08,0,3.37,0,0,1502,474,100,611,0,317
+2015,7,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",107,25,13.44,0,4.29,0,7.27,2,0,2047,892,0,288,0,867
+2015,7,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",83,8,4.31,0,3.52,0,0.17,0,0,304,175,0,124,0,5
+2015,7,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",7915,1735,383.78,102.12,471.86,3.28,773.97,60,51,104597,22852,8667,22628,72,50378
+2015,8,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",254,31,9.74,4.65,9.08,0,7.53,0,1,2083,655,394,428,0,606
+2015,8,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",111,14,8.86,0,2.58,0,2.56,1,1,1081,839,0,88,0,154
+2015,8,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",87,14,4.58,0,5.12,0,4.3,0,1,795,339,0,126,0,330
+2015,8,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",7476,1208,307.36,101.67,291.45,2.98,504.54,51,40,70088,16571,9222,13013,132,31150
+2015,9,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",225,21,9.88,2.8,6.57,0,1.75,0,0,1209,567,181,322,0,139
+2015,9,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",87,13,7.73,0,1.56,0,3.71,0,0,929,452,0,112,0,365
+2015,9,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",31,7,2.65,1,3.05,0,0.3,0,0,249,117,15,110,0,7
+2015,9,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6980,769,195.77,80.61,195.11,1,296.51,10,19,41362,10319,5958,8895,26,16164
+2015,10,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",241,8,5.5,0,1.95,0,0.56,0,0,298,223,0,65,0,10
+2015,10,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",124,22,13.79,0,4.07,0,4.14,1,0,1066,835,0,91,0,140
+2015,10,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",7248,616,211.65,3.57,112.42,0.81,287.54,8,3,30169,11690,237,3232,13,14997
+2015,11,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",222,23,10.14,1.19,4.88,0,6.79,0,4,1682,790,206,267,0,419
+2015,11,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",76,10,6.38,0,2.07,0,1.54,2,1,552,347,0,80,0,125
+2015,11,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",29,6,2.06,0.84,1.55,0,1.55,0,0,432,93,172,102,0,65
+2015,11,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6589,762,189.2,67.47,186.03,1.33,317.98,130,49,42883,10396,6709,8919,36,16823
+2015,12,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",174,18,9.16,0.33,2.83,0,5.68,0,0,774,440,11,102,0,221
+2015,12,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",90,21,11.32,0,3.72,0,5.96,3,0,1680,1068,0,158,0,454
+2015,12,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",65,20,4.88,0,8.69,0,6.43,1,1,1422,801,0,285,0,336
+2015,12,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6777,1166,336.34,65.97,173.29,5.88,584.51,301,84,65540,17445,5938,7008,133,35016
+2016,1,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",192,18,8.3,2.41,3.27,0,4.02,0,2,743,344,170,126,0,103
+2016,1,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",129,23,10.31,0,8.35,0,4.34,0,0,1109,552,0,234,0,323
+2016,1,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",21,7,1.83,0,2.19,0,2.98,0,0,641,98,0,101,0,442
+2016,1,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6334,783,213.24,44.84,193.62,2.5,328.8,154,11,34541,9547,3245,5852,62,15835
+2016,2,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",189,20,7.96,2.59,3.26,0,6.19,4,0,1938,345,1196,121,0,276
+2016,2,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",122,40,21.39,0,10.35,0,8.26,4,0,2784,1434,0,390,0,960
+2016,2,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",10,2,0,0,2,0,0,0,0,46,0,0,46,0,0
+2016,2,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",5887,550,145.07,32.84,143.46,0.88,227.76,235,43,32892,8100,4502,6421,14,13855
+2016,3,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",211,16,7.8,1.1,3.03,0,4.07,0,1,673,309,146,55,0,163
+2016,3,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",144,38,21.37,0,9.49,0,7.14,0,0,3074,2118,0,513,0,443
+2016,3,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",108,16,4.66,1,7.23,0,3.11,1,0,819,387,102,217,0,113
+2016,3,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6867,879,246.42,10.12,178.26,2.46,441.73,182,10,39241,10495,673,5704,55,22314
+2016,4,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",204,21,11.44,0.3,5.32,0,3.94,0,0,943,523,14,163,0,243
+2016,4,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",144,17,9.32,0,4.21,0,3.47,0,0,679,454,0,81,0,144
+2016,4,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",69,6,1.26,0,2,0,2.74,0,0,171,20,0,36,0,115
+2016,4,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6880,984,288.47,8.94,216.8,5.62,464.16,32,4,43429,12713,665,6617,138,23296
+2016,5,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",235,30,17.08,0.19,8.26,0,4.47,1,3,1116,655,6,305,0,150
+2016,5,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",108,20,8.57,0,5.11,0,6.32,1,1,1364,589,0,321,0,454
+2016,5,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",56,8,3,0,2.74,0,2.26,0,0,453,123,0,101,0,229
+2016,5,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",7147,1114,291.1,77.01,258.87,2.83,484.19,86,36,55920,14314,5969,9673,64,25900
+2016,6,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",231,31,10,3.49,7.53,0,9.98,0,2,2197,602,413,300,0,882
+2016,6,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",64,16,8.15,0,2.29,0,5.56,1,0,1078,521,0,129,0,428
+2016,6,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",56,8,4.79,0,1.27,0,1.95,0,0,597,288,0,31,0,278
+2016,6,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",7565,1303,356.14,33.2,274.55,3.57,635.54,107,6,71001,18728,2675,10927,253,38418
+2016,7,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",232,55,15.16,4.7,23.91,0,11.22,0,6,4360,1149,311,1735,0,1165
+2016,7,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",49,16,4.68,0,3.36,0,7.96,2,0,1406,373,0,257,0,776
+2016,7,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",53,9,2.28,0.97,3.06,0,2.69,0,0,575,101,73,62,0,339
+2016,7,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",7806,1721,439.1,120.47,383.16,3.82,774.45,269,75,116365,30816,11669,18897,102,54881
+2016,8,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",241,33,19.43,1.32,6.35,0,5.9,9,2,2564,1572,59,265,0,668
+2016,8,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",66,21,4.64,0,1.86,0,14.5,2,1,1462,309,0,138,0,1015
+2016,8,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",57,9,2.19,1,3,0,2.81,0,0,529,110,91,80,0,248
+2016,8,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",7474,1207,271.09,45.49,383.91,3.5,503.01,41,16,59802,14548,3267,13815,147,28025
+2016,9,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",221,16,11.52,0,1.01,0,3.46,0,0,679,466,0,37,0,176
+2016,9,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",55,9,6.41,0,0.41,0,2.18,1,0,590,323,0,41,0,226
+2016,9,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",50,7,2,0,4,0,1,0,0,203,78,0,72,0,53
+2016,9,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6951,740,186.73,22.59,187.38,1.81,341.48,30,8,34527,9110,1585,6354,31,17447
+2016,10,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",229,12,6.45,0,3.41,0,2.14,0,0,449,262,0,126,0,61
+2016,10,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",33,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,10,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",32,3,0,0,3,0,0,0,0,59,0,0,59,0,0
+2016,10,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",7232,600,171.81,4.73,154.58,0,268.89,31,2,24849,7781,133,4989,0,11946
+2016,11,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",219,13,6.45,0,6.15,0,0.39,0,2,420,212,0,197,0,11
+2016,11,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",15,4,3.94,0,0,0,0.06,0,0,379,373,0,0,0,6
+2016,11,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",37,9,1.93,1.88,4.28,0,0.91,0,0,1028,324,288,199,0,217
+2016,11,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6619,832,216.77,22.42,242.67,1.01,349.13,34,27,37652,10810,2090,7898,38,16816
+2016,12,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",179,24,11.43,2.29,7.07,0,3.21,0,0,1190,635,313,166,0,76
+2016,12,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",43,21,11.53,0,6.88,0,2.59,2,1,2092,1711,0,285,0,96
+2016,12,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",82,28,7.52,1.37,8.39,0,10.71,0,0,2303,489,167,374,0,1273
+2016,12,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6854,1307,337.58,43.51,276.17,5.07,644.67,355,26,63571,15006,3420,10651,120,34374
+2017,1,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",192,23,8.75,2.91,2.38,0,8.96,4,2,1729,735,254,156,0,584
+2017,1,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",25,9,4.32,0,0.53,0,4.14,1,0,1420,962,0,62,0,396
+2017,1,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",120,29,11.42,2,6.85,0,8.73,3,1,2249,1238,145,316,0,550
+2017,1,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6278,1063,226.51,79.54,244.29,2.07,510.6,196,52,52617,10051,6400,9489,52,26625
+2017,2,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",30,4,3,0,0,0,1,1,0,1351,1173,0,0,0,178
+2017,2,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",86,10,3.57,0,5.37,0,1.06,1,0,394,202,0,138,0,54
+2017,2,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",183,10,5.29,0.09,1.06,0,3.55,0,1,383,194,7,25,0,157
+2017,2,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",5515,558,118.67,27.36,156.81,1,254.15,76,41,25589,6042,1921,5403,15,12208
+2017,3,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",211,13,7.26,0.41,3.51,0,1.83,0,1,585,321,21,130,0,113
+2017,3,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",73,22,12.83,0,4.56,0,4.61,0,0,2176,1642,0,176,0,358
+2017,3,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",110,21,8.63,1.59,5.76,0,5.01,0,0,1151,302,44,210,0,595
+2017,3,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6907,1011,234.55,20.35,275.12,0,480.97,179,20,41269,9512,1106,8474,0,22177
+2017,4,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",203,38,13.21,11.97,3.12,0,9.7,10,0,4100,904,2010,178,0,1008
+2017,4,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",96,24,9.6,4,4.44,0,5.97,2,0,1138,712,74,115,0,237
+2017,4,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6838,963,255.1,12.18,199.1,0,496.62,48,16,49455,14080,1014,7229,0,27132
+2017,5,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",235,20,6.28,3.08,3.66,0,6.98,0,0,803,301,75,108,0,319
+2017,5,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",10,2,0.78,0,0.88,0,0.35,0,0,59,21,0,29,0,9
+2017,5,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",97,9,3.73,0,1.88,0,3.39,0,0,440,180,0,108,0,152
+2017,5,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",7101,1163,326.61,16.7,218.44,2.96,598.29,13,8,58501,16875,937,7541,93,33055
+2017,6,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",242,36,8.44,2.74,12.71,0,12.1,0,0,2412,425,345,696,0,946
+2017,6,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",6,1,0.72,0,0.28,0,0,0,0,138,100,0,38,0,0
+2017,6,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",77,16,5.08,3.86,3.95,0,3.11,1,0,906,371,211,129,0,195
+2017,6,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",7529,1543,356.63,61.13,314.1,2.87,808.28,86,14,92678,18725,7925,15588,81,50359
+2017,7,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",81,19,7.79,2.54,3.16,0,5.51,0,0,1501,491,235,93,0,682
+2017,7,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",257,50,16.21,2.75,21.63,0,9.42,0,0,2608,1084,127,855,0,542
+2017,7,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",7747,1702,366.27,95.47,400.3,2.1,837.86,85,34,89256,17280,8068,16086,153,47669
+2017,8,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",240,17,5.9,0.13,4.83,0,6.15,0,1,613,306,4,120,0,183
+2017,8,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",94,17,8.92,0,4.83,0,3.24,1,0,878,592,0,134,0,152
+2017,8,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",7620,1597,421.89,59.67,306.21,3.71,805.52,177,12,79818,19162,4925,11924,208,43599
+2017,9,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",206,18,6.84,2.05,6.27,0,2.85,1,0,1185,422,141,428,0,194
+2017,9,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",130,18,6.08,1.8,6.3,0,3.82,0,0,809,359,81,204,0,165
+2017,9,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6838,881,246.97,30.07,192.24,2.41,409.31,160,28,47065,12830,3380,9730,72,21053
+2017,10,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",209,15,10.81,0.4,0.66,0,3.13,0,0,579,488,7,25,0,59
+2017,10,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",7091,904,264.33,3.96,191.26,0.2,444.25,45,13,39870,14390,284,5624,8,19564
+2017,10,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",5,1,1,0,0,0,0,0,0,1399,1399,0,0,0,0
+2017,10,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",221,43,16.14,0.24,14.31,0,12.31,1,0,3007,1367,11,671,0,958
+2017,11,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",195,20,8.91,0,6.15,0,4.94,0,1,556,246,0,166,0,144
+2017,11,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",183,33,10.94,0.99,9.96,0,11.11,1,0,2613,748,815,390,0,660
+2017,11,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6707,865,250.78,10.14,239.04,5.33,359.71,48,49,39019,11405,1070,9687,426,16431
+2017,12,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",166,15,8.14,0.67,4.41,0,1.77,10,0,739,347,153,183,0,56
+2017,12,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6829,1558,413.44,9.9,441.33,7.86,685.46,113,4,68885,19165,903,14312,385,34120
+2017,12,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",218,70,21.97,4,23.59,0,20.44,3,0,5500,2089,713,918,0,1780
+2018,1,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",103,32,13.46,1.78,7.74,0,9.02,3,1,1727,792,163,342,0,430
+2018,1,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6366,1092,298.94,10.66,297.37,3.37,481.67,280,26,47996,14280,745,9759,75,23137
+2018,1,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",154,21,8.14,3.59,4.29,0,4.98,2,1,2051,286,414,829,0,522
+2018,2,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",101,23,2.39,1.17,8.77,0,10.67,2,2,1515,115,159,642,0,599
+2018,2,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",5477,857,259.87,9.24,208.91,4.03,374.94,522,85,38429,12026,1284,7082,192,17845
+2018,2,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",133,12,3.89,3.95,2.36,0,1.8,0,4,1543,795,520,173,0,55
+2018,2,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",12,4,2.32,0,0.68,0,1,0,0,200,165,0,15,0,20
+2018,3,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",154,9,5.97,0,1.98,0,1.06,0,0,423,343,0,45,0,35
+2018,3,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",56,17,8.96,0,2.98,0,5.06,0,0,1531,899,0,108,0,524
+2018,3,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",209,39,8.83,2,15.93,0,12.24,0,0,1853,421,209,695,0,528
+2018,3,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6910,999,320.33,15.62,131.41,6.08,525.56,157,2,46026,16138,803,3970,192,24923
+2018,4,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",150,6,3.51,0,1.81,0,0.69,0,0,496,240,0,223,0,33
+2018,4,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",4,3,2.62,0,0,0,0.38,0,0,418,351,0,0,0,67
+2018,4,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",218,46,11.41,3,13.99,0,17.6,4,0,3317,756,340,797,0,1424
+2018,4,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6980,1289,384.82,13.39,231.93,3.07,655.79,108,3,67808,19333,1530,9715,84,37146
+2018,5,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",170,25,11.51,1.17,4.94,0,7.38,0,0,1828,669,177,326,0,656
+2018,5,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",228,45,4.57,7.94,12.31,0,20.18,1,0,3453,183,1406,623,0,1241
+2018,5,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",7192,1464,393.58,34.98,318.99,2.79,713.66,135,18,79164,19999,2868,16374,85,39838
+2018,6,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",194,44,10.44,8.38,8.3,0,16.89,1,2,3922,555,1413,338,0,1616
+2018,6,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",265,58,18.83,5.99,14.98,0,18.21,0,1,3231,996,588,687,0,960
+2018,6,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",7349,1550,402.95,41.46,371.96,7.9,725.73,189,28,82346,19750,2763,15963,575,43295
+2018,7,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",196,22,6.44,2.55,5.34,0,7.67,0,0,1355,325,146,208,0,676
+2018,7,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",250,62,22.09,3.14,18.82,1.8,16.15,0,0,3457,1167,309,655,33,1293
+2018,7,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",7669,1608,437.89,47.96,349.03,5.49,767.63,136,4,89019,23433,4026,13077,214,48269
+2018,8,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",280,73,19.62,4.92,24.83,0,23.63,0,0,4637,874,1082,1102,0,1579
+2018,8,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",7316,1524,363.15,41.8,444.23,3.97,670.84,149,30,81614,20846,3608,17522,169,39469
+2018,8,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",209,18,3.35,4.33,5.79,0,4.52,0,3,1373,237,350,220,0,566
+2018,9,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",240,37,7.21,4.12,17.33,0,8.35,1,0,2258,446,400,807,0,605
+2018,9,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6736,906,216.57,27.92,284.54,0.2,376.76,91,28,45976,11064,2490,12280,9,20133
+2018,9,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",192,21,11.5,0.64,8.06,0,0.79,0,3,1010,510,28,432,0,40
+2018,10,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",205,17,10.28,0.44,2,0,4.28,0,2,498,322,8,55,0,113
+2018,10,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",280,49,14.62,6.47,12.55,0,15.36,0,1,2305,601,569,422,0,713
+2018,10,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",7035,1032,280.6,8.8,290.61,3.49,448.49,19,16,47222,13843,740,8387,450,23802
+2018,11,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",188,29,14.97,4.85,1.49,0,7.69,0,0,1902,593,971,44,0,294
+2018,11,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",287,48,13.38,3.68,18.65,0,12.3,1,0,3358,920,1114,602,0,722
+2018,11,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6570,1107,333.67,5.29,263.42,7.19,497.44,132,8,51142,15858,486,8213,306,26279
+2018,12,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",167,5,2.99,1.47,0.01,0,0.53,0,0,363,298,54,2,0,9
+2018,12,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",233,35,11.05,1.48,8.73,1,12.74,0,0,2271,820,229,220,24,978
+2018,12,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6609,1275,403.81,9.23,264.36,9.37,588.24,70,10,62003,19534,967,8932,296,32274
+2019,1,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",148,12,4.44,0.38,3.66,0,3.52,0,2,452,186,16,153,0,97
+2019,1,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",224,38,9.82,8.38,8.12,0,11.67,2,2,3268,980,949,379,0,960
+2019,1,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6040,904,229.85,8.56,330.54,1.74,333.31,793,18,39707,11038,837,10804,43,16985
