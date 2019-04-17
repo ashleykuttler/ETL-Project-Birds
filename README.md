@@ -1,6 +1,7 @@
 # ETL-Project-Birds
-Bird attacks are a growing problem in the US. In order to understand the data patterns better we will be combining data from bird strikes on buildings with bird strikes on aircraft into a singular database that could be further examined by wildlife experts, conservancy agencies, and city/airport operations. We will be combining on species, in Chicago over multiple years.
+Bird stikes cost the aviation industry an estimated 937 million annualy and can be dangerous to travelers. In order to understand bird strike incidents better we will be combining data from reported birdstrike data, with flight data, and bird population data to indentify trends to potentially avoid the damages it causes to both wildlife and airplanes. We will be looking at data from Chicago over multiple years.
 Data Sources : 
-https://data.world/animals/bird-building-collisions
-https://wildlife.faa.gov/databaseSearch.aspx
-https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp?pn=1
+Chicago Building Strikes: https://data.world/animals/bird-building-collisions
+Chicago Bird Strikes: https://wildlife.faa.gov/databaseSearch.aspx
+Chicago Flight Data: https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp?pn=1
+Bird Population Estimates: http://www.americanornithology.org/content/population-data-resources
