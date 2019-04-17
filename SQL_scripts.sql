@@ -1,5 +1,4 @@
-#CREATE DATABASE
-CREATE DATABASE birds_db;
+#CREATE DATABASE birds_db;
 USE birds_db;
 
 # RUN Jupyter notebook to clean data and write tables
@@ -7,16 +6,22 @@ USE birds_db;
 #ADD GENERIC NAME COLUMNS TO bird_strikes
 ALTER TABLE bird_strikes ADD Generic_Category VARCHAR(50);
 
-#QUERY & EXPORT TO CSV GENERIC NAME LIST TO GENERATE LIST OF UPDATE QUERIES (see Data/Generic_Category.csv)
-SELECT distinct Generic_Category FROM Species_key;
-
 #TURN OFF SAFE MODE
 SET SQL_SAFE_UPDATES = 0;
 
-#RUN UPDATE QUERIES TO FILL IN GENERIC NAMES USING WILDCARDS
+#Clean Up nulls in species key
+UPDATE species_key
+SET Generic_Category = `English Name`
+WHERE Generic_Category is null;
+
+#QUERY & EXPORT TO CSV GENERIC NAME LIST TO GENERATE LIST OF UPDATE QUERIES (see Data/Generic_Category.xls)
+SELECT distinct Generic_Category FROM Species_key;
+
+#RUN UPDATE QUERIES to Fill in Generic Category Field in bird_stikes table
 UPDATE bird_strikes SET Generic_Category = 'Chachalaca' WHERE SPECIES LIKE '%Chachalaca%';
 UPDATE bird_strikes SET Generic_Category = 'Quail' WHERE SPECIES LIKE '%Quail%';
 UPDATE bird_strikes SET Generic_Category = 'Bobwhite' WHERE SPECIES LIKE '%Bobwhite%';
+UPDATE bird_strikes SET Generic_Category = 'Chukar' WHERE SPECIES LIKE '%Chukar%';
 UPDATE bird_strikes SET Generic_Category = 'Partridge' WHERE SPECIES LIKE '%Partridge%';
 UPDATE bird_strikes SET Generic_Category = 'Pheasant' WHERE SPECIES LIKE '%Pheasant%';
 UPDATE bird_strikes SET Generic_Category = 'Grouse' WHERE SPECIES LIKE '%Grouse%';
@@ -33,11 +38,13 @@ UPDATE bird_strikes SET Generic_Category = 'Roadrunner' WHERE SPECIES LIKE '%Roa
 UPDATE bird_strikes SET Generic_Category = 'Ani' WHERE SPECIES LIKE '%Ani%';
 UPDATE bird_strikes SET Generic_Category = 'Nighthawk' WHERE SPECIES LIKE '%Nighthawk%';
 UPDATE bird_strikes SET Generic_Category = 'Poorwill' WHERE SPECIES LIKE '%Poorwill%';
+UPDATE bird_strikes SET Generic_Category = 'Chuck-will''s-widow' WHERE SPECIES LIKE '%Chuck-will''s-widow%';
 UPDATE bird_strikes SET Generic_Category = 'Whip-poor-will' WHERE SPECIES LIKE '%Whip-poor-will%';
 UPDATE bird_strikes SET Generic_Category = 'Swift' WHERE SPECIES LIKE '%Swift%';
 UPDATE bird_strikes SET Generic_Category = 'Hummingbird' WHERE SPECIES LIKE '%Hummingbird%';
 UPDATE bird_strikes SET Generic_Category = 'Vulture' WHERE SPECIES LIKE '%Vulture%';
 UPDATE bird_strikes SET Generic_Category = 'Condor' WHERE SPECIES LIKE '%Condor%';
+UPDATE bird_strikes SET Generic_Category = 'Osprey' WHERE SPECIES LIKE '%Osprey%';
 UPDATE bird_strikes SET Generic_Category = 'Kite' WHERE SPECIES LIKE '%Kite%';
 UPDATE bird_strikes SET Generic_Category = 'Eagle' WHERE SPECIES LIKE '%Eagle%';
 UPDATE bird_strikes SET Generic_Category = 'Harrier' WHERE SPECIES LIKE '%Harrier%';
@@ -58,6 +65,8 @@ UPDATE bird_strikes SET Generic_Category = 'Three-toed' WHERE SPECIES LIKE '%Thr
 UPDATE bird_strikes SET Generic_Category = 'Flicker' WHERE SPECIES LIKE '%Flicker%';
 UPDATE bird_strikes SET Generic_Category = 'Caracara' WHERE SPECIES LIKE '%Caracara%';
 UPDATE bird_strikes SET Generic_Category = 'Kestrel' WHERE SPECIES LIKE '%Kestrel%';
+UPDATE bird_strikes SET Generic_Category = 'Merlin' WHERE SPECIES LIKE '%Merlin%';
+UPDATE bird_strikes SET Generic_Category = 'Gyrfalcon' WHERE SPECIES LIKE '%Gyrfalcon%';
 UPDATE bird_strikes SET Generic_Category = 'Falcon' WHERE SPECIES LIKE '%Falcon%';
 UPDATE bird_strikes SET Generic_Category = 'Parakeet' WHERE SPECIES LIKE '%Parakeet%';
 UPDATE bird_strikes SET Generic_Category = 'Beardless-Tyrannulet' WHERE SPECIES LIKE '%Beardless-Tyrannulet%';
@@ -81,6 +90,8 @@ UPDATE bird_strikes SET Generic_Category = 'Swallow' WHERE SPECIES LIKE '%Swallo
 UPDATE bird_strikes SET Generic_Category = 'Rough-winged' WHERE SPECIES LIKE '%Rough-winged%';
 UPDATE bird_strikes SET Generic_Category = 'Chickadee' WHERE SPECIES LIKE '%Chickadee%';
 UPDATE bird_strikes SET Generic_Category = 'Titmouse' WHERE SPECIES LIKE '%Titmouse%';
+UPDATE bird_strikes SET Generic_Category = 'Verdin' WHERE SPECIES LIKE '%Verdin%';
+UPDATE bird_strikes SET Generic_Category = 'Bushtit' WHERE SPECIES LIKE '%Bushtit%';
 UPDATE bird_strikes SET Generic_Category = 'Nuthatch' WHERE SPECIES LIKE '%Nuthatch%';
 UPDATE bird_strikes SET Generic_Category = 'Creeper' WHERE SPECIES LIKE '%Creeper%';
 UPDATE bird_strikes SET Generic_Category = 'Wren' WHERE SPECIES LIKE '%Wren%';
@@ -88,9 +99,12 @@ UPDATE bird_strikes SET Generic_Category = 'Gnatcatcher' WHERE SPECIES LIKE '%Gn
 UPDATE bird_strikes SET Generic_Category = 'Dipper' WHERE SPECIES LIKE '%Dipper%';
 UPDATE bird_strikes SET Generic_Category = 'Kinglet' WHERE SPECIES LIKE '%Kinglet%';
 UPDATE bird_strikes SET Generic_Category = 'Warbler' WHERE SPECIES LIKE '%Warbler%';
+UPDATE bird_strikes SET Generic_Category = 'Wrentit' WHERE SPECIES LIKE '%Wrentit%';
+UPDATE bird_strikes SET Generic_Category = 'Bluethroat' WHERE SPECIES LIKE '%Bluethroat%';
 UPDATE bird_strikes SET Generic_Category = 'Wheatear' WHERE SPECIES LIKE '%Wheatear%';
 UPDATE bird_strikes SET Generic_Category = 'Bluebird' WHERE SPECIES LIKE '%Bluebird%';
 UPDATE bird_strikes SET Generic_Category = 'Solitaire' WHERE SPECIES LIKE '%Solitaire%';
+UPDATE bird_strikes SET Generic_Category = 'Veery' WHERE SPECIES LIKE '%Veery%';
 UPDATE bird_strikes SET Generic_Category = 'Thrush' WHERE SPECIES LIKE '%Thrush%';
 UPDATE bird_strikes SET Generic_Category = 'Robin' WHERE SPECIES LIKE '%Robin%';
 UPDATE bird_strikes SET Generic_Category = 'Catbird' WHERE SPECIES LIKE '%Catbird%';
@@ -98,6 +112,7 @@ UPDATE bird_strikes SET Generic_Category = 'Thrasher' WHERE SPECIES LIKE '%Thras
 UPDATE bird_strikes SET Generic_Category = 'Mockingbird' WHERE SPECIES LIKE '%Mockingbird%';
 UPDATE bird_strikes SET Generic_Category = 'Starling' WHERE SPECIES LIKE '%Starling%';
 UPDATE bird_strikes SET Generic_Category = 'Waxwing' WHERE SPECIES LIKE '%Waxwing%';
+UPDATE bird_strikes SET Generic_Category = 'Phainopepla' WHERE SPECIES LIKE '%Phainopepla%';
 UPDATE bird_strikes SET Generic_Category = 'Sparrow' WHERE SPECIES LIKE '%Sparrow%';
 UPDATE bird_strikes SET Generic_Category = 'Tree' WHERE SPECIES LIKE '%Tree%';
 UPDATE bird_strikes SET Generic_Category = 'Pipit' WHERE SPECIES LIKE '%Pipit%';
@@ -114,10 +129,12 @@ UPDATE bird_strikes SET Generic_Category = 'Towhee' WHERE SPECIES LIKE '%Towhee%
 UPDATE bird_strikes SET Generic_Category = 'Junco' WHERE SPECIES LIKE '%Junco%';
 UPDATE bird_strikes SET Generic_Category = 'Chat' WHERE SPECIES LIKE '%Chat%';
 UPDATE bird_strikes SET Generic_Category = 'Blackbird' WHERE SPECIES LIKE '%Blackbird%';
+UPDATE bird_strikes SET Generic_Category = 'Bobolink' WHERE SPECIES LIKE '%Bobolink%';
 UPDATE bird_strikes SET Generic_Category = 'Meadowlark' WHERE SPECIES LIKE '%Meadowlark%';
 UPDATE bird_strikes SET Generic_Category = 'Oriole' WHERE SPECIES LIKE '%Oriole%';
 UPDATE bird_strikes SET Generic_Category = 'Cowbird' WHERE SPECIES LIKE '%Cowbird%';
 UPDATE bird_strikes SET Generic_Category = 'Grackle' WHERE SPECIES LIKE '%Grackle%';
+UPDATE bird_strikes SET Generic_Category = 'Ovenbird' WHERE SPECIES LIKE '%Ovenbird%';
 UPDATE bird_strikes SET Generic_Category = 'Waterthrush' WHERE SPECIES LIKE '%Waterthrush%';
 UPDATE bird_strikes SET Generic_Category = 'Yellowthroat' WHERE SPECIES LIKE '%Yellowthroat%';
 UPDATE bird_strikes SET Generic_Category = 'Redstart' WHERE SPECIES LIKE '%Redstart%';
@@ -127,6 +144,8 @@ UPDATE bird_strikes SET Generic_Category = 'Blue' WHERE SPECIES LIKE '%Blue%';
 UPDATE bird_strikes SET Generic_Category = 'Green' WHERE SPECIES LIKE '%Green%';
 UPDATE bird_strikes SET Generic_Category = 'Tanager' WHERE SPECIES LIKE '%Tanager%';
 UPDATE bird_strikes SET Generic_Category = 'Cardinal' WHERE SPECIES LIKE '%Cardinal%';
+UPDATE bird_strikes SET Generic_Category = 'Pyrrhuloxia' WHERE SPECIES LIKE '%Pyrrhuloxia%';
+UPDATE bird_strikes SET Generic_Category = 'Dickcissel' WHERE SPECIES LIKE '%Dickcissel%';
 
 #SEARCH FOR NULL ROWS 
 SELECT DISTINCT SPECIES FROM bird_strikes WHERE Generic_Category is null;
@@ -165,15 +184,37 @@ cf.year, cf.airport;
 
 # Compare species as a % of population and % of strikes (obviously naming conventions are a problem that needs further cleanup
 # & INNER JOIN will exclude species that exisit in one table but not the other)
+CREATE VIEW grouped_bird_pop AS (
 SELECT 
-bs.Generic_Category as Species_Type
-,ROUND(COUNT(bs.strike_id) / (select count(*) FROM bird_strikes),2)*100 as Bird_Strikes_Percent
-,ROUND(AVG(bp.`Estimated % of State Population`),2) as Bird_Population_Percent
-FROM bird_strikes bs
-INNER JOIN species_key sk ON bs.Generic_Category = sk.Generic_Category
-INNER JOIN bird_populations bp ON SK.SPECIES_ID = bp.SPECIES_ID
-GROUP BY bs.Generic_Category 
-ORDER BY 2 DESC;
+sk.Generic_Category 
+,ROUND(SUM(bp.`Estimated % of State Population`),2) as Bird_Population_Percent
+FROM bird_populations bp
+INNER JOIN species_key sk ON bp.SPECIES_ID = sk.SPECIES_ID
+GROUP BY sk.Generic_Category 
+ORDER BY 2 DESC)
+;
+CREATE VIEW grouped_bird_strikes AS (
+SELECT 
+Generic_Category 
+,ROUND(COUNT(strike_id) / (select count(*) FROM bird_strikes),2)*100 as Bird_Strikes_Percent
+FROM bird_strikes 
+GROUP BY Generic_Category
+);
+# INNER JOIN will exclude species groups that exisit in one table but not the other
+SELECT gbs.Generic_Category
+,gbs.Bird_Strikes_Percent
+,gbp.Bird_Population_Percent
+FROM grouped_bird_strikes gbs
+INNER JOIN grouped_bird_pop gbp
+ON gbs.Generic_Category = gbp.Generic_Category;
+
+# LEFT JOIN shows about 54% of birdstrikes are still un accounted for 
+SELECT gbs.Generic_Category
+,gbs.Bird_Strikes_Percent
+,gbp.Bird_Population_Percent
+FROM grouped_bird_strikes gbs
+LEFT JOIN grouped_bird_pop gbp
+ON gbs.Generic_Category = gbp.Generic_Category
 
 
 
