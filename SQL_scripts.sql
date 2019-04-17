@@ -151,12 +151,13 @@ ALTER TABLE species_key ADD PRIMARY KEY (SPECIES_ID);
 ALTER TABLE bird_strikes ADD INDEX INCIDENT_YEAR (INCIDENT_YEAR);
 ALTER TABLE chicago_flights ADD INDEX INCIDENT_YEAR (year);
 
-# PERFORM JOIN
-#Total flights and total bird strikes per year per aiport (takes 49.8 seconds had to edit time out settings)
+# PERFORM JOINS
+#Total flights and total bird strikes per year per aiport  (takes 49.8 seconds had to edit time out settings)
 SELECT cf.year as Year
 ,cf.airport as Airport
 ,SUM(cf.total_flights) as Total_FLights
 ,COUNT(bs.strike_id) as Total_Bird_Strikes
+,ROUND(COUNT(bs.strike_id) / SUM(cf.total_flights),4)*100 as Perc_of_Flights_resulting_in_bird_strike
 FROM chicago_flights cf
 LEFT JOIN bird_strikes bs ON cf.airport = bs.AIRPORT_ID AND cf.year = bs.INCIDENT_YEAR
 GROUP BY
