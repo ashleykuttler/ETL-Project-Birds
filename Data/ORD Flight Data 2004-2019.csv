@@ -1,4 +1,4 @@
-year, month,carrier,carrier_name,airport,airport_name,arr_flights,arr_del15,carrier_ct, weather_ct,nas_ct,security_ct,late_aircraft_ct,arr_cancelled,arr_diverted, arr_delay, carrier_delay,weather_delay,nas_delay,security_delay,late_aircraft_delay
+year,month,carrier,carrier_name,airport,airport_name,arr_flights,arr_del15,carrier_ct, weather_ct,nas_ct,security_ct,late_aircraft_ct,arr_cancelled,arr_diverted, arr_delay, carrier_delay,weather_delay,nas_delay,security_delay,late_aircraft_delay
 2004,1,AA,American Airlines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",8691,3346,264.81,112.07,2336.58,1.01,631.53,793,10,235984,21812,8264,150749,31,55128
 2004,1,AS,Alaska Airlines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",31,6,4.06,0,1.94,0,0,0,0,338,286,0,52,0,0
 2004,1,CO,Continental Air Lines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",385,161,10.3,0.7,138.62,0,11.37,22,0,11442,462,74,10095,0,811
