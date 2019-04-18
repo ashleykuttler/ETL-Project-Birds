@@ -115,10 +115,12 @@ ALTER TABLE species_key ADD PRIMARY KEY (SPECIES_ID);
 
 #INDEX COLUMNS FOR FASTER QUERIES
 ALTER TABLE bird_strikes ADD INDEX INCIDENT_YEAR (INCIDENT_YEAR);
-ALTER TABLE chicago_flights ADD INDEX INCIDENT_YEAR (year);
+ALTER TABLE chicago_flights ADD INDEX year (year);
+ALTER TABLE bird_strikes ADD INDEX INCIDENT_MONTH (INCIDENT_MONTH);
+ALTER TABLE chicago_flights ADD INDEX month (month);
 
 # PERFORM JOINS
-#Total flights and total bird strikes per year per aiport  (takes 49.8 seconds had to edit time out settings)
+#Total flights and total bird strikes per year per aiport  (takes 49.8 seconds had to edit time out settings)...are bird strikes increasing?
 SELECT cf.year as Year
 ,cf.airport as Airport
 ,SUM(cf.total_flights) as Total_FLights
@@ -129,8 +131,19 @@ LEFT JOIN bird_strikes bs ON cf.airport = bs.AIRPORT_ID AND cf.year = bs.INCIDEN
 GROUP BY
 cf.year, cf.airport; 
 
-# Compare species as a % of population and % of strikes (obviously naming conventions are a problem that needs further cleanup
-# & INNER JOIN will exclude species that exisit in one table but not the other)
+#Total flights and total bird strikes per month per aiport  (takes 49.8 seconds had to edit time out settings)..is there seasonal fluctuation?
+SELECT cf.month as Month
+,cf.airport as Airport
+,SUM(cf.total_flights) as Total_FLights
+,COUNT(bs.strike_id) as Total_Bird_Strikes
+,ROUND(COUNT(bs.strike_id) / SUM(cf.total_flights),4)*100 as Perc_of_Flights_resulting_in_bird_strike
+FROM chicago_flights cf
+LEFT JOIN bird_strikes bs ON cf.airport = bs.AIRPORT_ID AND cf.month = bs.INCIDENT_MONTH
+WHERE cf.year BETWEEN 2014 AND 2016
+GROUP BY
+cf.month, cf.airport; 
+
+# Compare species as a % of population and % of strikes in IL (obviously naming conventions are a problem that needs further cleanup)
 CREATE VIEW grouped_bird_pop AS (
 SELECT 
 sk.Generic_Category 
@@ -155,7 +168,7 @@ FROM grouped_bird_strikes gbs
 INNER JOIN grouped_bird_pop gbp
 ON gbs.Generic_Category = gbp.Generic_Category;
 
-# LEFT JOIN shows about 56% of birdstrikes are still un accounted for 
+# LEFT JOIN shows about 56% of birdstrikes are still un-accounted for 
 SELECT gbs.Generic_Category
 ,gbs.Bird_Strikes_Percent
 ,gbp.Bird_Population_Percent
