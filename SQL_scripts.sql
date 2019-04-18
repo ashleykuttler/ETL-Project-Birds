@@ -131,7 +131,7 @@ LEFT JOIN bird_strikes bs ON cf.airport = bs.AIRPORT_ID AND cf.year = bs.INCIDEN
 GROUP BY
 cf.year, cf.airport; 
 
-#Total flights and total bird strikes per month per aiport  (takes 49.8 seconds had to edit time out settings)..is there seasonal fluctuation?
+#Total flights and total bird strikes per month per aiport ..is there seasonal fluctuation?
 SELECT cf.month as Month
 ,cf.airport as Airport
 ,SUM(cf.total_flights) as Total_FLights
