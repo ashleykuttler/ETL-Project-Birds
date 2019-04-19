@@ -144,6 +144,7 @@ GROUP BY
 cf.month, cf.airport; 
 
 # Compare species as a % of population and % of strikes in IL (obviously naming conventions are a problem that needs further cleanup)
+#Create view to group bird population % by species
 CREATE VIEW grouped_bird_pop AS (
 SELECT 
 sk.Generic_Category 
@@ -153,6 +154,7 @@ INNER JOIN species_key sk ON bp.SPECIES_ID = sk.SPECIES_ID
 GROUP BY sk.Generic_Category 
 ORDER BY 2 DESC)
 ;
+#Create view to group bird strike % by species
 CREATE VIEW grouped_bird_strikes AS (
 SELECT 
 Generic_Category 
